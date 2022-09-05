@@ -21,6 +21,22 @@ Storing tokens on GitHub makes a lot of sense. It's version controlled, allows y
 
 [https://docs.tokens.studio/sync/github](https://docs.tokens.studio/sync/github)
 
-# Tokens Pipeline
+# Tokens Pipeline - TBD
 
-TBD
+## Figma Tokens JSON
+
+Figma tokens plugin generates a JSON file (data/tokens.json). This is the raw source of truth used for syncing the plugin. **This file cannot be used in development.** No math and aliases are resolved.
+
+*NB This file can technically be manually edited and then the plugin can pull changes from the repo. However, to avoid mistakes, this file should be generated, as best practice, only by the Figma Tokens Plugin within the Figma enviroment.*
+
+## Token Transformer
+
+Token Transformer(https://www.npmjs.com/package/token-transformer)
+Converts tokens from Figma Tokens to something Style Dictionary can read, removing any math operations or aliases, only resulting in raw values.
+
+
+## Sytle Dictionary
+
+Style Dictionary(https://github.com/amzn/style-dictionary)
+A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language. 
+
