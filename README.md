@@ -31,12 +31,12 @@ Figma tokens plugin generates a JSON file (data/tokens.json). This is the raw so
 
 ## Token Transformer
 
-Token Transformer(https://www.npmjs.com/package/token-transformer)
+[Token Transformer](https://www.npmjs.com/package/token-transformer)
 Converts tokens from Figma Tokens to something Style Dictionary can read, removing any math operations or aliases, only resulting in raw values.
 
 
 ## Sytle Dictionary
 
-Style Dictionary(https://github.com/amzn/style-dictionary)
+[Style Dictionary](https://github.com/amzn/style-dictionary)
 A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language. 
 
