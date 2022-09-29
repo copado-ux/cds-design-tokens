@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 29 Sep 2022 08:33:46 GMT
+ * Generated on Thu, 29 Sep 2022 08:51:34 GMT
  */
 
 :root {
@@ -167,5 +167,7 @@
   --cds-core-font-android: Roboto;
   --cds-core-font-system: SF Pro;
   --cds-core-font-rem: 16;
-  --cds-core-typography-body: [object Object];
+  --cds-core-typography-body-font-family: SF Pro;
+  --cds-core-typography-body-font-size: 16;
+  --cds-core-typography-body-font-weight: 500;
 }
