@@ -850,7 +850,43 @@
         "white": {
           "value": "#ffffff",
           "type": "color",
-          "description": "full white"
+          "description": "pure white"
+        }
+      },
+      "font": {
+        "win": {
+          "value": "Segoe UI",
+          "type": "fontFamilies",
+          "description": "https://learn.microsoft.com/en-us/windows/apps/design/downloads/"
+        },
+        "macos": {
+          "value": "SF Pro",
+          "type": "fontFamilies",
+          "description": "https://developer.apple.com/fonts/"
+        },
+        "android": {
+          "value": "Roboto",
+          "type": "fontFamilies",
+          "description": "https://fonts.google.com/specimen/Roboto"
+        },
+        "system": {
+          "value": "SF Pro",
+          "type": "fontFamilies",
+          "description": "System Font Used in Designs"
+        },
+        "rem": {
+          "value": 16,
+          "type": "fontSizes",
+          "description": "default font size"
+        }
+      },
+      "typography": {
+        "body": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontSize": 16
+          },
+          "type": "typography"
         }
       }
     }
