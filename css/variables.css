@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 11:06:09 GMT
+ * Generated on Fri, 30 Sep 2022 11:55:39 GMT
  */
 
 :root {
@@ -45,6 +45,11 @@
   --cds-semantic-color-borders-disabled: #989db0;
   --cds-semantic-color-other-divider: #dddee5;
   --cds-semantic-color-other-backdrop: #cbced8;
+  --cds-semantic-typography-body-font-family: Segoe UI;
+  --cds-semantic-typography-body-font-size: 16;
+  --cds-semantic-typography-body-line-height: 24;
+  --cds-semantic-typography-body-letter-spacing: ;
+  --cds-semantic-typography-body-font-weight: 500;
   --cds-core-color-blue-base: #007CBF;
   --cds-core-color-blue-tint-10: #1A89C5;
   --cds-core-color-blue-tint-20: #3396cc;
@@ -165,7 +170,7 @@
   --cds-core-font-win: Segoe UI;
   --cds-core-font-macos: SF Pro;
   --cds-core-font-android: Roboto;
-  --cds-core-font-system: SF Pro;
+  --cds-core-font-system: Segoe UI;
   --cds-core-font-rem: 16;
   --cds-core-font-multiplier: 1.25;
   --cds-core-font-scale-majorsecond: 1.125;
@@ -191,5 +196,13 @@
   --cds-core-font-lineheight-8: 64;
   --cds-core-font-lineheight-9: 72;
   --cds-core-font-lineheight-10: 80;
+  --cds-core-font-weight-regular: Regular;
+  --cds-core-font-weight-bold: Bold;
+  --cds-core-font-weight-bolditalic: Bold Italic;
+  --cds-core-font-weight-semibold: Semibold;
+  --cds-core-font-weight-semibolditalic: Semibold Italic;
+  --cds-core-font-weight-light: Light;
+  --cds-core-font-weight-lightitalic: Light Italic;
+  --cds-core-font-weight-regularitalic: Italic;
   --cds-core-grid-base: 8;
 }
