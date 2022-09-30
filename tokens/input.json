@@ -878,6 +878,67 @@
           "value": 16,
           "type": "fontSizes",
           "description": "default font size"
+        },
+        "multiplier": {
+          "value": 1.25,
+          "type": "fontSizes"
+        },
+        "scale": {
+          "majorsecond": {
+            "value": 1.125,
+            "type": "other",
+            "description": "Major Second / Low Contrast Ratio\n"
+          },
+          "majorthird": {
+            "value": 1.25,
+            "type": "other",
+            "description": "Major Third / Medium Contrast Ratio\n"
+          },
+          "perfectfifth": {
+            "value": 1.5,
+            "type": "other",
+            "description": "Perfect Fifth / High Contrast Ratio"
+          }
+        },
+        "size1": {
+          "value": 6.554,
+          "type": "fontSizes"
+        },
+        "size2": {
+          "value": 8.192,
+          "type": "fontSizes"
+        },
+        "size3": {
+          "value": 10.24,
+          "type": "fontSizes"
+        },
+        "size4": {
+          "value": 12.8,
+          "type": "fontSizes"
+        },
+        "size5": {
+          "value": 16,
+          "type": "fontSizes"
+        },
+        "size6": {
+          "value": 20,
+          "type": "fontSizes"
+        },
+        "size7": {
+          "value": 25,
+          "type": "fontSizes"
+        },
+        "size8": {
+          "value": 31.25,
+          "type": "fontSizes"
+        },
+        "size9": {
+          "value": 39.063,
+          "type": "fontSizes"
+        },
+        "size10": {
+          "value": 48.828,
+          "type": "fontSizes"
         }
       }
     }

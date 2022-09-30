@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 09:47:22 GMT
+ * Generated on Fri, 30 Sep 2022 10:29:35 GMT
  */
 
 :root {
@@ -167,4 +167,18 @@
   --cds-core-font-android: Roboto;
   --cds-core-font-system: SF Pro;
   --cds-core-font-rem: 16;
+  --cds-core-font-multiplier: 1.25;
+  --cds-core-font-scale-majorsecond: 1.125;
+  --cds-core-font-scale-majorthird: 1.25;
+  --cds-core-font-scale-perfectfifth: 1.5;
+  --cds-core-font-size1: 6.554;
+  --cds-core-font-size2: 8.192;
+  --cds-core-font-size3: 10.24;
+  --cds-core-font-size4: 12.8;
+  --cds-core-font-size5: 16;
+  --cds-core-font-size6: 20;
+  --cds-core-font-size7: 25;
+  --cds-core-font-size8: 31.25;
+  --cds-core-font-size9: 39.063;
+  --cds-core-font-size10: 48.828;
 }
