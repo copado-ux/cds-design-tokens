@@ -879,22 +879,6 @@
           "type": "fontSizes",
           "description": "default font size"
         }
-      },
-      "typography": {
-        "body": {
-          "fontFamily": {
-            "value": "SF Pro",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": 16,
-            "type": "fontSize"
-          },
-          "fontWeight": {
-            "value": 500,
-            "type": "fontWeight"
-          }
-        }
       }
     }
   }
