@@ -939,6 +939,54 @@
         "size10": {
           "value": 3.052,
           "type": "fontSizes"
+        },
+        "lineheight": {
+          "1": {
+            "value": 8,
+            "type": "lineHeights"
+          },
+          "2": {
+            "value": 16,
+            "type": "lineHeights"
+          },
+          "3": {
+            "value": 24,
+            "type": "lineHeights"
+          },
+          "4": {
+            "value": 32,
+            "type": "lineHeights"
+          },
+          "5": {
+            "value": 40,
+            "type": "lineHeights"
+          },
+          "6": {
+            "value": 48,
+            "type": "lineHeights"
+          },
+          "7": {
+            "value": 56,
+            "type": "lineHeights"
+          },
+          "8": {
+            "value": 64,
+            "type": "lineHeights"
+          },
+          "9": {
+            "value": 72,
+            "type": "lineHeights"
+          },
+          "10": {
+            "value": 80,
+            "type": "lineHeights"
+          }
+        }
+      },
+      "grid": {
+        "base": {
+          "value": 8,
+          "type": "other"
         }
       }
     }
