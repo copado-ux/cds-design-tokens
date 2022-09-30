@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 10:29:35 GMT
+ * Generated on Fri, 30 Sep 2022 10:54:22 GMT
  */
 
 :root {
@@ -171,14 +171,14 @@
   --cds-core-font-scale-majorsecond: 1.125;
   --cds-core-font-scale-majorthird: 1.25;
   --cds-core-font-scale-perfectfifth: 1.5;
-  --cds-core-font-size1: 6.554;
-  --cds-core-font-size2: 8.192;
-  --cds-core-font-size3: 10.24;
-  --cds-core-font-size4: 12.8;
-  --cds-core-font-size5: 16;
-  --cds-core-font-size6: 20;
-  --cds-core-font-size7: 25;
-  --cds-core-font-size8: 31.25;
-  --cds-core-font-size9: 39.063;
-  --cds-core-font-size10: 48.828;
+  --cds-core-font-size1: 0.41;
+  --cds-core-font-size2: 0.512;
+  --cds-core-font-size3: 0.64;
+  --cds-core-font-size4: 0.8;
+  --cds-core-font-size5: 1;
+  --cds-core-font-size6: 1.25;
+  --cds-core-font-size7: 1.563;
+  --cds-core-font-size8: 1.953;
+  --cds-core-font-size9: 2.441;
+  --cds-core-font-size10: 3.052;
 }
