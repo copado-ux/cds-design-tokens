@@ -1,11 +1,60 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Oct 2022 09:02:15 GMT
+ * Generated on Mon, 03 Oct 2022 10:33:36 GMT
  */
 
 :root {
   --token-set-order-0: core;
   --token-set-order-1: semantic;
+  --token-set-order-2: lofi;
+  --cds-lofi-typography-body-font-family: Roboto Mono;
+  --cds-lofi-typography-body-font-weight: 400;
+  --cds-lofi-typography-body-line-height: 24;
+  --cds-lofi-typography-body-font-size: 16;
+  --cds-lofi-typography-body-letter-spacing: 0;
+  --cds-lofi-typography-body-paragraph-spacing: 32;
+  --cds-lofi-typography-body-text-decoration: None;
+  --cds-lofi-typography-body-text-case: As Typed;
+  --cds-lofi-typography-label-font-family: Roboto Mono;
+  --cds-lofi-typography-label-font-weight: 400;
+  --cds-lofi-typography-label-line-height: 20;
+  --cds-lofi-typography-label-font-size: 12.8;
+  --cds-lofi-typography-label-letter-spacing: 0;
+  --cds-lofi-typography-label-paragraph-spacing: 32;
+  --cds-lofi-typography-label-text-decoration: None;
+  --cds-lofi-typography-label-text-case: As Typed;
+  --cds-lofi-typography-footnote-font-family: Roboto Mono;
+  --cds-lofi-typography-footnote-font-weight: 400;
+  --cds-lofi-typography-footnote-line-height: 16;
+  --cds-lofi-typography-footnote-font-size: 10.24;
+  --cds-lofi-typography-footnote-letter-spacing: 0;
+  --cds-lofi-typography-footnote-paragraph-spacing: 32;
+  --cds-lofi-typography-footnote-text-decoration: None;
+  --cds-lofi-typography-footnote-text-case: As Typed;
+  --cds-lofi-typography-subtitle-font-family: Roboto Mono;
+  --cds-lofi-typography-subtitle-font-weight: 400;
+  --cds-lofi-typography-subtitle-line-height: 32;
+  --cds-lofi-typography-subtitle-font-size: 20;
+  --cds-lofi-typography-subtitle-letter-spacing: 0;
+  --cds-lofi-typography-subtitle-paragraph-spacing: 48;
+  --cds-lofi-typography-subtitle-text-decoration: None;
+  --cds-lofi-typography-subtitle-text-case: As Typed;
+  --cds-lofi-typography-section-font-family: Roboto Mono;
+  --cds-lofi-typography-section-font-weight: 400;
+  --cds-lofi-typography-section-line-height: 48;
+  --cds-lofi-typography-section-font-size: 25.008;
+  --cds-lofi-typography-section-letter-spacing: 0;
+  --cds-lofi-typography-section-paragraph-spacing: 64;
+  --cds-lofi-typography-section-text-decoration: None;
+  --cds-lofi-typography-section-text-case: As Typed;
+  --cds-lofi-typography-title-font-family: Roboto Mono;
+  --cds-lofi-typography-title-font-weight: 400;
+  --cds-lofi-typography-title-line-height: 64;
+  --cds-lofi-typography-title-font-size: 31.248;
+  --cds-lofi-typography-title-letter-spacing: 0;
+  --cds-lofi-typography-title-paragraph-spacing: 80;
+  --cds-lofi-typography-title-text-decoration: None;
+  --cds-lofi-typography-title-text-case: As Typed;
   --cds-semantic-color-accent-primary: #007CBF;
   --cds-semantic-color-accent-background: #e6f2f9;
   --cds-semantic-color-accent-contrast: #ffffff;
@@ -45,7 +94,7 @@
   --cds-semantic-color-borders-disabled: #989db0;
   --cds-semantic-color-other-divider: #dddee5;
   --cds-semantic-color-other-backdrop: #cbced8;
-  --cds-semantic-typography-body-font-family: Segoe UI;
+  --cds-semantic-typography-body-font-family: SF Pro;
   --cds-semantic-typography-body-font-size: 16;
   --cds-semantic-typography-body-line-height: 24;
   --cds-semantic-typography-body-letter-spacing: -0.18;
@@ -53,7 +102,7 @@
   --cds-semantic-typography-body-paragraph-spacing: 32;
   --cds-semantic-typography-body-text-case: As Typed;
   --cds-semantic-typography-body-text-decoration: None;
-  --cds-semantic-typography-label-font-family: Segoe UI;
+  --cds-semantic-typography-label-font-family: SF Pro;
   --cds-semantic-typography-label-font-size: 12.8;
   --cds-semantic-typography-label-line-height: 24;
   --cds-semantic-typography-label-letter-spacing: 0;
@@ -181,7 +230,7 @@
   --cds-core-font-win: Segoe UI;
   --cds-core-font-macos: SF Pro;
   --cds-core-font-android: Roboto;
-  --cds-core-font-system: Segoe UI;
+  --cds-core-font-system: SF Pro;
   --cds-core-font-rem: 16;
   --cds-core-font-multiplier: 1.25;
   --cds-core-font-scale-majorsecond: 1.125;

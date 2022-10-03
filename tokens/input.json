@@ -7,6 +7,220 @@
     "1": {
       "value": "semantic",
       "type": "other"
+    },
+    "2": {
+      "value": "lofi",
+      "type": "other"
+    }
+  },
+  "_cds": {
+    "lofi": {
+      "typography": {
+        "body": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 24,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 16,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
+        "label": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 20,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 12.8,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
+        "footnote": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 16,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 10.24,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
+        "subtitle": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 32,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 20,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 48,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
+        "section": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 48,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 25.008,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 64,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
+        "title": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 64,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 31.248,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 80,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        }
+      }
     }
   },
   "cds": {
@@ -231,7 +445,7 @@
       "typography": {
         "body": {
           "fontFamily": {
-            "value": "Segoe UI",
+            "value": "SF Pro",
             "type": "fontFamily"
           },
           "fontSize": {
@@ -265,7 +479,7 @@
         },
         "label": {
           "fontFamily": {
-            "value": "Segoe UI",
+            "value": "SF Pro",
             "type": "fontFamily"
           },
           "fontSize": {
@@ -940,7 +1154,7 @@
           "description": "https://fonts.google.com/specimen/Roboto"
         },
         "system": {
-          "value": "Segoe UI",
+          "value": "SF Pro",
           "type": "fontFamilies",
           "description": "System Font Used in Designs"
         },
