@@ -50,6 +50,40 @@
             "type": "textCase"
           }
         },
+        "bodyBold": {
+          "fontFamily": {
+            "value": "Roboto Mono",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": 700,
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": 24,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": 16,
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          }
+        },
         "label": {
           "fontFamily": {
             "value": "Roboto Mono",

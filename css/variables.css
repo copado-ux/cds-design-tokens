@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Oct 2022 10:34:51 GMT
+ * Generated on Mon, 03 Oct 2022 11:18:35 GMT
  */
 
 :root {
@@ -15,6 +15,14 @@
   --cds-lofi-typography-body-paragraph-spacing: 32;
   --cds-lofi-typography-body-text-decoration: None;
   --cds-lofi-typography-body-text-case: As Typed;
+  --cds-lofi-typography-body-bold-font-family: Roboto Mono;
+  --cds-lofi-typography-body-bold-font-weight: 700;
+  --cds-lofi-typography-body-bold-line-height: 24;
+  --cds-lofi-typography-body-bold-font-size: 16;
+  --cds-lofi-typography-body-bold-letter-spacing: 0;
+  --cds-lofi-typography-body-bold-paragraph-spacing: 32;
+  --cds-lofi-typography-body-bold-text-decoration: None;
+  --cds-lofi-typography-body-bold-text-case: As Typed;
   --cds-lofi-typography-label-font-family: Roboto Mono;
   --cds-lofi-typography-label-font-weight: 400;
   --cds-lofi-typography-label-line-height: 20;
