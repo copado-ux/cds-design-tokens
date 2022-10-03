@@ -13,7 +13,7 @@
       "type": "other"
     }
   },
-  "_cds": {
+  "cds": {
     "lofi": {
       "typography": {
         "body": {
@@ -221,9 +221,7 @@
           }
         }
       }
-    }
-  },
-  "cds": {
+    },
     "semantic": {
       "color": {
         "accent": {
