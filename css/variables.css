@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 11:55:39 GMT
+ * Generated on Mon, 03 Oct 2022 09:02:15 GMT
  */
 
 :root {
@@ -48,8 +48,19 @@
   --cds-semantic-typography-body-font-family: Segoe UI;
   --cds-semantic-typography-body-font-size: 16;
   --cds-semantic-typography-body-line-height: 24;
-  --cds-semantic-typography-body-letter-spacing: ;
-  --cds-semantic-typography-body-font-weight: 500;
+  --cds-semantic-typography-body-letter-spacing: -0.18;
+  --cds-semantic-typography-body-font-weight: Regular;
+  --cds-semantic-typography-body-paragraph-spacing: 32;
+  --cds-semantic-typography-body-text-case: As Typed;
+  --cds-semantic-typography-body-text-decoration: None;
+  --cds-semantic-typography-label-font-family: Segoe UI;
+  --cds-semantic-typography-label-font-size: 12.8;
+  --cds-semantic-typography-label-line-height: 24;
+  --cds-semantic-typography-label-letter-spacing: 0;
+  --cds-semantic-typography-label-font-weight: Regular;
+  --cds-semantic-typography-label-paragraph-spacing: 32;
+  --cds-semantic-typography-label-text-case: As Typed;
+  --cds-semantic-typography-label-text-decoration: None;
   --cds-core-color-blue-base: #007CBF;
   --cds-core-color-blue-tint-10: #1A89C5;
   --cds-core-color-blue-tint-20: #3396cc;

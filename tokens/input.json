@@ -243,12 +243,58 @@
             "type": "lineHeight"
           },
           "letterSpacing": {
-            "value": "",
+            "value": -0.18,
             "type": "letterSpacing"
           },
           "fontWeight": {
-            "value": 500,
+            "value": "Regular",
             "type": "fontWeight"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          }
+        },
+        "label": {
+          "fontFamily": {
+            "value": "Segoe UI",
+            "type": "fontFamily"
+          },
+          "fontSize": {
+            "value": 12.8,
+            "type": "fontSize"
+          },
+          "lineHeight": {
+            "value": 24,
+            "type": "lineHeight"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "fontWeight": {
+            "value": "Regular",
+            "type": "fontWeight"
+          },
+          "paragraphSpacing": {
+            "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
           }
         }
       }
