@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Oct 2022 11:18:35 GMT
+ * Generated on Thu, 06 Oct 2022 12:41:19 GMT
  */
 
 :root {
@@ -102,7 +102,7 @@
   --cds-semantic-color-borders-disabled: #989db0;
   --cds-semantic-color-other-divider: #dddee5;
   --cds-semantic-color-other-backdrop: #cbced8;
-  --cds-semantic-typography-body-font-family: SF Pro;
+  --cds-semantic-typography-body-font-family: Segoe UI;
   --cds-semantic-typography-body-font-size: 16;
   --cds-semantic-typography-body-line-height: 24;
   --cds-semantic-typography-body-letter-spacing: -0.18;
@@ -110,7 +110,7 @@
   --cds-semantic-typography-body-paragraph-spacing: 32;
   --cds-semantic-typography-body-text-case: As Typed;
   --cds-semantic-typography-body-text-decoration: None;
-  --cds-semantic-typography-label-font-family: SF Pro;
+  --cds-semantic-typography-label-font-family: Segoe UI;
   --cds-semantic-typography-label-font-size: 12.8;
   --cds-semantic-typography-label-line-height: 24;
   --cds-semantic-typography-label-letter-spacing: 0;
@@ -118,6 +118,14 @@
   --cds-semantic-typography-label-paragraph-spacing: 32;
   --cds-semantic-typography-label-text-case: As Typed;
   --cds-semantic-typography-label-text-decoration: None;
+  --cds-semantic-typography-footnote-font-family: Segoe UI;
+  --cds-semantic-typography-footnote-font-size: 10.24;
+  --cds-semantic-typography-footnote-line-height: 16;
+  --cds-semantic-typography-footnote-letter-spacing: 0;
+  --cds-semantic-typography-footnote-font-weight: Regular;
+  --cds-semantic-typography-footnote-paragraph-spacing: 24;
+  --cds-semantic-typography-footnote-text-case: As Typed;
+  --cds-semantic-typography-footnote-text-decoration: None;
   --cds-core-color-blue-base: #007CBF;
   --cds-core-color-blue-tint-10: #1A89C5;
   --cds-core-color-blue-tint-20: #3396cc;
@@ -238,7 +246,7 @@
   --cds-core-font-win: Segoe UI;
   --cds-core-font-macos: SF Pro;
   --cds-core-font-android: Roboto;
-  --cds-core-font-system: SF Pro;
+  --cds-core-font-system: Segoe UI;
   --cds-core-font-rem: 16;
   --cds-core-font-multiplier: 1.25;
   --cds-core-font-scale-majorsecond: 1.125;

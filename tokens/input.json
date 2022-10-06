@@ -477,7 +477,7 @@
       "typography": {
         "body": {
           "fontFamily": {
-            "value": "SF Pro",
+            "value": "Segoe UI",
             "type": "fontFamily"
           },
           "fontSize": {
@@ -511,7 +511,7 @@
         },
         "label": {
           "fontFamily": {
-            "value": "SF Pro",
+            "value": "Segoe UI",
             "type": "fontFamily"
           },
           "fontSize": {
@@ -532,6 +532,40 @@
           },
           "paragraphSpacing": {
             "value": 32,
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "As Typed",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "None",
+            "type": "textDecoration"
+          }
+        },
+        "footnote": {
+          "fontFamily": {
+            "value": "Segoe UI",
+            "type": "fontFamily"
+          },
+          "fontSize": {
+            "value": 10.24,
+            "type": "fontSize"
+          },
+          "lineHeight": {
+            "value": 16,
+            "type": "lineHeight"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "fontWeight": {
+            "value": "Regular",
+            "type": "fontWeight"
+          },
+          "paragraphSpacing": {
+            "value": 24,
             "type": "paragraphSpacing"
           },
           "textCase": {
@@ -1186,7 +1220,7 @@
           "description": "https://fonts.google.com/specimen/Roboto"
         },
         "system": {
-          "value": "SF Pro",
+          "value": "Segoe UI",
           "type": "fontFamilies",
           "description": "System Font Used in Designs"
         },
