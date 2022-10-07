@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 06 Oct 2022 12:41:19 GMT
+ * Generated on Fri, 07 Oct 2022 09:24:05 GMT
  */
 
 :root {
@@ -10,7 +10,7 @@
   --cds-lofi-typography-body-font-family: Roboto Mono;
   --cds-lofi-typography-body-font-weight: 400;
   --cds-lofi-typography-body-line-height: 24;
-  --cds-lofi-typography-body-font-size: 16;
+  --cds-lofi-typography-body-font-size: 14;
   --cds-lofi-typography-body-letter-spacing: 0;
   --cds-lofi-typography-body-paragraph-spacing: 32;
   --cds-lofi-typography-body-text-decoration: None;
@@ -18,7 +18,7 @@
   --cds-lofi-typography-body-bold-font-family: Roboto Mono;
   --cds-lofi-typography-body-bold-font-weight: 700;
   --cds-lofi-typography-body-bold-line-height: 24;
-  --cds-lofi-typography-body-bold-font-size: 16;
+  --cds-lofi-typography-body-bold-font-size: 14;
   --cds-lofi-typography-body-bold-letter-spacing: 0;
   --cds-lofi-typography-body-bold-paragraph-spacing: 32;
   --cds-lofi-typography-body-bold-text-decoration: None;
@@ -26,7 +26,7 @@
   --cds-lofi-typography-label-font-family: Roboto Mono;
   --cds-lofi-typography-label-font-weight: 400;
   --cds-lofi-typography-label-line-height: 20;
-  --cds-lofi-typography-label-font-size: 12.8;
+  --cds-lofi-typography-label-font-size: 11.2;
   --cds-lofi-typography-label-letter-spacing: 0;
   --cds-lofi-typography-label-paragraph-spacing: 32;
   --cds-lofi-typography-label-text-decoration: None;
@@ -34,7 +34,7 @@
   --cds-lofi-typography-footnote-font-family: Roboto Mono;
   --cds-lofi-typography-footnote-font-weight: 400;
   --cds-lofi-typography-footnote-line-height: 16;
-  --cds-lofi-typography-footnote-font-size: 10.24;
+  --cds-lofi-typography-footnote-font-size: 8.96;
   --cds-lofi-typography-footnote-letter-spacing: 0;
   --cds-lofi-typography-footnote-paragraph-spacing: 32;
   --cds-lofi-typography-footnote-text-decoration: None;
@@ -42,7 +42,7 @@
   --cds-lofi-typography-subtitle-font-family: Roboto Mono;
   --cds-lofi-typography-subtitle-font-weight: 400;
   --cds-lofi-typography-subtitle-line-height: 32;
-  --cds-lofi-typography-subtitle-font-size: 20;
+  --cds-lofi-typography-subtitle-font-size: 17.5;
   --cds-lofi-typography-subtitle-letter-spacing: 0;
   --cds-lofi-typography-subtitle-paragraph-spacing: 48;
   --cds-lofi-typography-subtitle-text-decoration: None;
@@ -50,7 +50,7 @@
   --cds-lofi-typography-section-font-family: Roboto Mono;
   --cds-lofi-typography-section-font-weight: 400;
   --cds-lofi-typography-section-line-height: 48;
-  --cds-lofi-typography-section-font-size: 25.008;
+  --cds-lofi-typography-section-font-size: 21.882;
   --cds-lofi-typography-section-letter-spacing: 0;
   --cds-lofi-typography-section-paragraph-spacing: 64;
   --cds-lofi-typography-section-text-decoration: None;
@@ -58,7 +58,7 @@
   --cds-lofi-typography-title-font-family: Roboto Mono;
   --cds-lofi-typography-title-font-weight: 400;
   --cds-lofi-typography-title-line-height: 64;
-  --cds-lofi-typography-title-font-size: 31.248;
+  --cds-lofi-typography-title-font-size: 27.342;
   --cds-lofi-typography-title-letter-spacing: 0;
   --cds-lofi-typography-title-paragraph-spacing: 80;
   --cds-lofi-typography-title-text-decoration: None;
@@ -103,7 +103,7 @@
   --cds-semantic-color-other-divider: #dddee5;
   --cds-semantic-color-other-backdrop: #cbced8;
   --cds-semantic-typography-body-font-family: Segoe UI;
-  --cds-semantic-typography-body-font-size: 16;
+  --cds-semantic-typography-body-font-size: 14;
   --cds-semantic-typography-body-line-height: 24;
   --cds-semantic-typography-body-letter-spacing: -0.18;
   --cds-semantic-typography-body-font-weight: Regular;
@@ -111,19 +111,19 @@
   --cds-semantic-typography-body-text-case: As Typed;
   --cds-semantic-typography-body-text-decoration: None;
   --cds-semantic-typography-label-font-family: Segoe UI;
-  --cds-semantic-typography-label-font-size: 12.8;
-  --cds-semantic-typography-label-line-height: 24;
+  --cds-semantic-typography-label-font-size: 11.2;
+  --cds-semantic-typography-label-line-height: 16;
   --cds-semantic-typography-label-letter-spacing: 0;
   --cds-semantic-typography-label-font-weight: Regular;
-  --cds-semantic-typography-label-paragraph-spacing: 32;
+  --cds-semantic-typography-label-paragraph-spacing: 24;
   --cds-semantic-typography-label-text-case: As Typed;
   --cds-semantic-typography-label-text-decoration: None;
   --cds-semantic-typography-footnote-font-family: Segoe UI;
-  --cds-semantic-typography-footnote-font-size: 10.24;
-  --cds-semantic-typography-footnote-line-height: 16;
+  --cds-semantic-typography-footnote-font-size: 8.96;
+  --cds-semantic-typography-footnote-line-height: 8;
   --cds-semantic-typography-footnote-letter-spacing: 0;
   --cds-semantic-typography-footnote-font-weight: Regular;
-  --cds-semantic-typography-footnote-paragraph-spacing: 24;
+  --cds-semantic-typography-footnote-paragraph-spacing: 16;
   --cds-semantic-typography-footnote-text-case: As Typed;
   --cds-semantic-typography-footnote-text-decoration: None;
   --cds-core-color-blue-base: #007CBF;
@@ -247,7 +247,7 @@
   --cds-core-font-macos: SF Pro;
   --cds-core-font-android: Roboto;
   --cds-core-font-system: Segoe UI;
-  --cds-core-font-rem: 16;
+  --cds-core-font-rem: 14;
   --cds-core-font-multiplier: 1.25;
   --cds-core-font-scale-majorsecond: 1.125;
   --cds-core-font-scale-majorthird: 1.25;

@@ -30,7 +30,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 16,
+            "value": 14,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -64,7 +64,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 16,
+            "value": 14,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -98,7 +98,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 12.8,
+            "value": 11.2,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -132,7 +132,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 10.24,
+            "value": 8.96,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -166,7 +166,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 20,
+            "value": 17.5,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -200,7 +200,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 25.008,
+            "value": 21.882,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -234,7 +234,7 @@
             "type": "lineHeight"
           },
           "fontSize": {
-            "value": 31.248,
+            "value": 27.342,
             "type": "fontSize"
           },
           "letterSpacing": {
@@ -481,7 +481,7 @@
             "type": "fontFamily"
           },
           "fontSize": {
-            "value": 16,
+            "value": 14,
             "type": "fontSize"
           },
           "lineHeight": {
@@ -515,11 +515,11 @@
             "type": "fontFamily"
           },
           "fontSize": {
-            "value": 12.8,
+            "value": 11.2,
             "type": "fontSize"
           },
           "lineHeight": {
-            "value": 24,
+            "value": 16,
             "type": "lineHeight"
           },
           "letterSpacing": {
@@ -531,7 +531,7 @@
             "type": "fontWeight"
           },
           "paragraphSpacing": {
-            "value": 32,
+            "value": 24,
             "type": "paragraphSpacing"
           },
           "textCase": {
@@ -549,11 +549,11 @@
             "type": "fontFamily"
           },
           "fontSize": {
-            "value": 10.24,
+            "value": 8.96,
             "type": "fontSize"
           },
           "lineHeight": {
-            "value": 16,
+            "value": 8,
             "type": "lineHeight"
           },
           "letterSpacing": {
@@ -565,7 +565,7 @@
             "type": "fontWeight"
           },
           "paragraphSpacing": {
-            "value": 24,
+            "value": 16,
             "type": "paragraphSpacing"
           },
           "textCase": {
@@ -1225,7 +1225,7 @@
           "description": "System Font Used in Designs"
         },
         "rem": {
-          "value": 16,
+          "value": 14,
           "type": "fontSizes",
           "description": "default font size"
         },
