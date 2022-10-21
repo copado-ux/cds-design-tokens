@@ -380,7 +380,7 @@
             "description": "cards, modals, section background"
           },
           "light": {
-            "value": "#F6F7F8",
+            "value": "#eeeff2",
             "type": "color",
             "description": "page, section backgrounds"
           },
