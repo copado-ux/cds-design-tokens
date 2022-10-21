@@ -1622,7 +1622,8 @@
       "grid": {
         "base": {
           "value": 8,
-          "type": "other"
+          "type": "other",
+          "description": "Grid base Unit"
         }
       },
       "elevation": {
@@ -1747,6 +1748,128 @@
           },
           "type": "boxShadow",
           "description": "backgrounds, section backgrounds"
+        }
+      },
+      "spacing": {
+        "4": {
+          "value": 4,
+          "type": "spacing",
+          "description": "4"
+        },
+        "8": {
+          "value": 8,
+          "type": "spacing",
+          "description": "8"
+        },
+        "12": {
+          "value": 12,
+          "type": "spacing",
+          "description": "12"
+        },
+        "16": {
+          "value": 16,
+          "type": "spacing",
+          "description": "16"
+        },
+        "20": {
+          "value": 20,
+          "type": "spacing",
+          "description": "20"
+        },
+        "24": {
+          "value": 24,
+          "type": "spacing",
+          "description": "24"
+        },
+        "28": {
+          "value": 28,
+          "type": "spacing",
+          "description": "28"
+        },
+        "32": {
+          "value": 32,
+          "type": "spacing",
+          "description": "32"
+        },
+        "36": {
+          "value": 36,
+          "type": "spacing",
+          "description": "36"
+        },
+        "40": {
+          "value": 40,
+          "type": "spacing",
+          "description": "40"
+        },
+        "44": {
+          "value": 44,
+          "type": "spacing",
+          "description": "44"
+        },
+        "48": {
+          "value": 48,
+          "type": "spacing",
+          "description": "48"
+        },
+        "52": {
+          "value": 52,
+          "type": "spacing",
+          "description": "52"
+        },
+        "56": {
+          "value": 56,
+          "type": "spacing",
+          "description": "56"
+        },
+        "64": {
+          "value": 64,
+          "type": "spacing",
+          "description": "64"
+        },
+        "72": {
+          "value": 72,
+          "type": "spacing",
+          "description": "72"
+        },
+        "80": {
+          "value": 80,
+          "type": "spacing",
+          "description": "80"
+        },
+        "96": {
+          "value": 96,
+          "type": "spacing",
+          "description": "96"
+        },
+        "120": {
+          "value": 120,
+          "type": "spacing",
+          "description": "120"
+        },
+        "144": {
+          "value": 144,
+          "type": "spacing",
+          "description": "144"
+        },
+        "160": {
+          "value": 160,
+          "type": "spacing",
+          "description": "160"
+        },
+        "240": {
+          "value": 240,
+          "type": "spacing",
+          "description": "240"
+        },
+        "256": {
+          "value": 256,
+          "type": "spacing",
+          "description": "256"
+        },
+        "320": {
+          "value": 320,
+          "type": "spacing",
+          "description": "320"
         }
       }
     }
