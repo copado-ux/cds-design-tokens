@@ -793,6 +793,34 @@
             }
           }
         }
+      },
+      "elevation": {
+        "states": {
+          "focused": {
+            "primary": {
+              "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 0,
+                "spread": 3,
+                "color": "#56618114",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "error": {
+              "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 0,
+                "spread": 3,
+                "color": "#b91c1c0f",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            }
+          }
+        }
       }
     },
     "core": {
@@ -1595,6 +1623,130 @@
         "base": {
           "value": 8,
           "type": "other"
+        }
+      },
+      "elevation": {
+        "xs": {
+          "value": [
+            {
+              "x": 0,
+              "y": 5,
+              "blur": 4,
+              "spread": -4,
+              "color": "#00000005",
+              "type": "dropShadow"
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "blur": 2,
+              "spread": 0,
+              "color": "#0000000f",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "text fields, cards, checkbox, radio button"
+        },
+        "sm": {
+          "value": [
+            {
+              "x": 0,
+              "y": 0,
+              "blur": 2,
+              "spread": 0,
+              "color": "#0000000a",
+              "type": "dropShadow"
+            },
+            {
+              "x": 0,
+              "y": 2,
+              "blur": 2,
+              "spread": 0,
+              "color": "#00000014",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "lowest elevation cards"
+        },
+        "lg": {
+          "value": [
+            {
+              "x": 0,
+              "y": 2,
+              "blur": 6,
+              "spread": 0,
+              "color": "#0000000f",
+              "type": "dropShadow"
+            },
+            {
+              "x": 0,
+              "y": 32,
+              "blur": 40,
+              "spread": -16,
+              "color": "#0000001f",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "modal dialogue windows"
+        },
+        "xl": {
+          "value": [
+            {
+              "x": 0,
+              "y": 48,
+              "blur": 64,
+              "spread": -24,
+              "color": "#0000001f",
+              "type": "dropShadow"
+            },
+            {
+              "x": 0,
+              "y": 24,
+              "blur": 48,
+              "spread": -8,
+              "color": "#0000001f",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "modal dialogue windows"
+        },
+        "md": {
+          "value": [
+            {
+              "x": 0,
+              "y": 0,
+              "blur": 4,
+              "spread": 0,
+              "color": "#0000000a",
+              "type": "dropShadow"
+            },
+            {
+              "x": 0,
+              "y": 12,
+              "blur": 12,
+              "spread": -8,
+              "color": "#00000014",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "drop-downs, select-menus, notifications, alerts"
+        },
+        "flat": {
+          "value": {
+            "x": 0,
+            "y": 0,
+            "blur": 0,
+            "spread": 0,
+            "color": "#00000000",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow",
+          "description": "backgrounds, section backgrounds"
         }
       }
     }
