@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Oct 2022 07:45:32 GMT
+ * Generated on Fri, 21 Oct 2022 09:36:29 GMT
  */
 
 :root {
@@ -142,14 +142,14 @@
   --cds-semantic-typography-section-subtitle-default-paragraph-spacing: 32;
   --cds-semantic-typography-section-subtitle-default-text-case: As Typed;
   --cds-semantic-typography-section-subtitle-default-text-decoration: None;
-  --cds-semantic-typography-section-subtitle-semibold-font-family: Segoe UI;
-  --cds-semantic-typography-section-subtitle-semibold-font-size: 17.5;
-  --cds-semantic-typography-section-subtitle-semibold-line-height: 24;
-  --cds-semantic-typography-section-subtitle-semibold-letter-spacing: 0;
-  --cds-semantic-typography-section-subtitle-semibold-font-weight: Semibold;
-  --cds-semantic-typography-section-subtitle-semibold-paragraph-spacing: 32;
-  --cds-semantic-typography-section-subtitle-semibold-text-case: As Typed;
-  --cds-semantic-typography-section-subtitle-semibold-text-decoration: None;
+  --cds-semantic-typography-section-subtitle-bold-font-family: Segoe UI;
+  --cds-semantic-typography-section-subtitle-bold-font-size: 17.5;
+  --cds-semantic-typography-section-subtitle-bold-line-height: 24;
+  --cds-semantic-typography-section-subtitle-bold-letter-spacing: 0;
+  --cds-semantic-typography-section-subtitle-bold-font-weight: Bold;
+  --cds-semantic-typography-section-subtitle-bold-paragraph-spacing: 32;
+  --cds-semantic-typography-section-subtitle-bold-text-case: As Typed;
+  --cds-semantic-typography-section-subtitle-bold-text-decoration: None;
   --cds-semantic-typography-section-title-default-font-family: Segoe UI;
   --cds-semantic-typography-section-title-default-font-size: 21.882;
   --cds-semantic-typography-section-title-default-line-height: 32;

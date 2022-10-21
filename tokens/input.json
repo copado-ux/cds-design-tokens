@@ -652,7 +652,7 @@
               "type": "textDecoration"
             }
           },
-          "semibold": {
+          "bold": {
             "fontFamily": {
               "value": "Segoe UI",
               "type": "fontFamily"
@@ -670,7 +670,7 @@
               "type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "value": "Bold",
               "type": "fontWeight"
             },
             "paragraphSpacing": {
