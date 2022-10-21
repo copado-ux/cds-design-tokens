@@ -476,105 +476,321 @@
       },
       "typography": {
         "body": {
-          "fontFamily": {
-            "value": "Segoe UI",
-            "type": "fontFamily"
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 14,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": -0.18,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           },
-          "fontSize": {
-            "value": 14,
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": 24,
-            "type": "lineHeight"
-          },
-          "letterSpacing": {
-            "value": -0.18,
-            "type": "letterSpacing"
-          },
-          "fontWeight": {
-            "value": "Regular",
-            "type": "fontWeight"
-          },
-          "paragraphSpacing": {
-            "value": 32,
-            "type": "paragraphSpacing"
-          },
-          "textCase": {
-            "value": "As Typed",
-            "type": "textCase"
-          },
-          "textDecoration": {
-            "value": "None",
-            "type": "textDecoration"
+          "semibold": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 14,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": -0.18,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "label": {
-          "fontFamily": {
-            "value": "Segoe UI",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": 11.2,
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": 16,
-            "type": "lineHeight"
-          },
-          "letterSpacing": {
-            "value": 0,
-            "type": "letterSpacing"
-          },
-          "fontWeight": {
-            "value": "Regular",
-            "type": "fontWeight"
-          },
-          "paragraphSpacing": {
-            "value": 24,
-            "type": "paragraphSpacing"
-          },
-          "textCase": {
-            "value": "As Typed",
-            "type": "textCase"
-          },
-          "textDecoration": {
-            "value": "None",
-            "type": "textDecoration"
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 11.2,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 16,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 24,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "footnote": {
-          "fontFamily": {
-            "value": "Segoe UI",
-            "type": "fontFamily"
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 8.96,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 8,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 16,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "sectionSubtitle": {
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 17.5,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           },
-          "fontSize": {
-            "value": 8.96,
-            "type": "fontSize"
+          "semibold": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 17.5,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "sectionTitle": {
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 21.882,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 40,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           },
-          "lineHeight": {
-            "value": 8,
-            "type": "lineHeight"
-          },
-          "letterSpacing": {
-            "value": 0,
-            "type": "letterSpacing"
-          },
-          "fontWeight": {
-            "value": "Regular",
-            "type": "fontWeight"
-          },
-          "paragraphSpacing": {
-            "value": 16,
-            "type": "paragraphSpacing"
-          },
-          "textCase": {
-            "value": "As Typed",
-            "type": "textCase"
-          },
-          "textDecoration": {
-            "value": "None",
-            "type": "textDecoration"
+          "bold": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 21.882,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 40,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "pageTitle": {
+          "default": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 27.342,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 48,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         }
       }
