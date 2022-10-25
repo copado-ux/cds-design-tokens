@@ -1801,11 +1801,6 @@
           "type": "sizing",
           "description": "40"
         },
-        "44": {
-          "value": 44,
-          "type": "spacing",
-          "description": "44"
-        },
         "48": {
           "value": 48,
           "type": "sizing",
