@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 09:25:18 GMT
+ * Generated on Tue, 01 Nov 2022 13:40:24 GMT
  */
 
 :root {
@@ -86,6 +86,7 @@
   --cds-semantic-color-info-contrast: #00324c;
   --cds-semantic-color-background-surface: #ffffff;
   --cds-semantic-color-background-light: #eeeff2;
+  --cds-semantic-color-background-lightest: #F6F7F8;
   --cds-semantic-color-background-medium: #dddee5;
   --cds-semantic-color-background-contrast: #3a4057;
   --cds-semantic-color-background-canvas: #ffffff;
