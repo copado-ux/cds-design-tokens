@@ -584,6 +584,40 @@
               "value": "None",
               "type": "textDecoration"
             }
+          },
+          "semibold": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamily"
+            },
+            "fontSize": {
+              "value": 11.2,
+              "type": "fontSize"
+            },
+            "lineHeight": {
+              "value": 16,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeight"
+            },
+            "paragraphSpacing": {
+              "value": 24,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "footnote": {

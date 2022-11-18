@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 01 Nov 2022 13:40:24 GMT
+ * Generated on Fri, 18 Nov 2022 16:39:22 GMT
  */
 
 :root {
@@ -127,6 +127,14 @@
   --cds-semantic-typography-label-default-paragraph-spacing: 24;
   --cds-semantic-typography-label-default-text-case: As Typed;
   --cds-semantic-typography-label-default-text-decoration: None;
+  --cds-semantic-typography-label-semibold-font-family: Segoe UI;
+  --cds-semantic-typography-label-semibold-font-size: 11.2;
+  --cds-semantic-typography-label-semibold-line-height: 16;
+  --cds-semantic-typography-label-semibold-letter-spacing: 0;
+  --cds-semantic-typography-label-semibold-font-weight: Semibold;
+  --cds-semantic-typography-label-semibold-paragraph-spacing: 24;
+  --cds-semantic-typography-label-semibold-text-case: As Typed;
+  --cds-semantic-typography-label-semibold-text-decoration: None;
   --cds-semantic-typography-footnote-default-font-family: Segoe UI;
   --cds-semantic-typography-footnote-default-font-size: 8.96;
   --cds-semantic-typography-footnote-default-line-height: 8;
