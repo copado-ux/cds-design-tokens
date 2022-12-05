@@ -710,6 +710,40 @@
               "value": "None",
               "type": "textDecoration"
             }
+          },
+          "semibold": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 17.5,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "sectionTitle": {
@@ -1901,6 +1935,64 @@
         "default": {
           "value": 8,
           "type": "borderRadius"
+        }
+      },
+      "gap": {
+        "2": {
+          "value": 2,
+          "type": "spacing"
+        },
+        "4": {
+          "value": 4,
+          "type": "spacing"
+        },
+        "8": {
+          "value": 8,
+          "type": "spacing"
+        }
+      },
+      "padding": {
+        "4": {
+          "value": 4,
+          "type": "spacing"
+        },
+        "8": {
+          "value": 8,
+          "type": "spacing"
+        },
+        "12": {
+          "value": 12,
+          "type": "spacing"
+        }
+      },
+      "sizing": {
+        "small": {
+          "value": 16,
+          "type": "sizing"
+        },
+        "medium": {
+          "value": 20,
+          "type": "sizing"
+        },
+        "large": {
+          "value": 24,
+          "type": "sizing"
+        }
+      },
+      "borderwidth": {
+        "icon": {
+          "medium": {
+            "value": 1.25,
+            "type": "borderWidth"
+          },
+          "large": {
+            "value": 1.5,
+            "type": "borderWidth"
+          },
+          "small": {
+            "value": 1,
+            "type": "borderWidth"
+          }
         }
       }
     }
