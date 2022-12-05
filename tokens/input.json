@@ -860,9 +860,9 @@
               "value": {
                 "x": 0,
                 "y": 0,
-                "blur": 0,
+                "blur": 2,
                 "spread": 3,
-                "color": "#56618114",
+                "color": "#005786",
                 "type": "dropShadow"
               },
               "type": "boxShadow"
@@ -1962,6 +1962,14 @@
         },
         "12": {
           "value": 12,
+          "type": "spacing"
+        },
+        "16": {
+          "value": 16,
+          "type": "spacing"
+        },
+        "20": {
+          "value": 20,
           "type": "spacing"
         }
       },
