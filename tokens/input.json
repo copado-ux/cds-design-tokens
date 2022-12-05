@@ -867,6 +867,17 @@
               },
               "type": "boxShadow"
             },
+            "error": {
+              "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 2,
+                "spread": 3,
+                "color": "#ec563b",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
             "secondary": {
               "value": {
                 "x": 0,
@@ -874,17 +885,6 @@
                 "blur": 2,
                 "spread": 3,
                 "color": "#535B7C",
-                "type": "dropShadow"
-              },
-              "type": "boxShadow"
-            },
-            "error": {
-              "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 0,
-                "spread": 3,
-                "color": "#b91c1c0f",
                 "type": "dropShadow"
               },
               "type": "boxShadow"
@@ -1949,6 +1949,10 @@
         }
       },
       "gap": {
+        "0": {
+          "value": 0,
+          "type": "spacing"
+        },
         "2": {
           "value": 2,
           "type": "spacing"

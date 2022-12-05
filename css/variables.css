@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 05 Dec 2022 10:58:55 GMT
+ * Generated on Mon, 05 Dec 2022 15:13:40 GMT
  */
 
 :root {
@@ -189,8 +189,8 @@
   --cds-semantic-typography-page-title-default-text-case: As Typed;
   --cds-semantic-typography-page-title-default-text-decoration: None;
   --cds-semantic-elevation-states-focused-primary: [object Object];
-  --cds-semantic-elevation-states-focused-secondary: [object Object];
   --cds-semantic-elevation-states-focused-error: [object Object];
+  --cds-semantic-elevation-states-focused-secondary: [object Object];
   --cds-core-color-blue-base: #007CBF;
   --cds-core-color-blue-tint-10: #1A89C5;
   --cds-core-color-blue-tint-20: #3396cc;
@@ -377,6 +377,7 @@
   --cds-core-spacing-256: 256;
   --cds-core-spacing-320: 320;
   --cds-core-radius-default: 8;
+  --cds-core-gap-0: 0;
   --cds-core-gap-2: 2;
   --cds-core-gap-4: 4;
   --cds-core-gap-8: 8;
