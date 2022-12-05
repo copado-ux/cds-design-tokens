@@ -1,12 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Nov 2022 16:39:22 GMT
+ * Generated on Mon, 05 Dec 2022 09:04:37 GMT
  */
 
 :root {
-  --token-set-order-0: core;
-  --token-set-order-1: semantic;
-  --token-set-order-2: lofi;
   --cds-lofi-typography-body-font-family: Roboto Mono;
   --cds-lofi-typography-body-font-weight: 400;
   --cds-lofi-typography-body-line-height: 24;
@@ -370,4 +367,8 @@
   --cds-core-spacing-240: 240;
   --cds-core-spacing-256: 256;
   --cds-core-spacing-320: 320;
+  --cds-core-radius-default: 8;
+  --token-set-order-0: core;
+  --token-set-order-1: semantic;
+  --token-set-order-2: lofi;
 }
