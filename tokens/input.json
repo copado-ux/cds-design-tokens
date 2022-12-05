@@ -867,6 +867,17 @@
               },
               "type": "boxShadow"
             },
+            "secondary": {
+              "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 2,
+                "spread": 3,
+                "color": "#535B7C",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
             "error": {
               "value": {
                 "x": 0,
