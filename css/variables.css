@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Dec 2022 09:36:47 GMT
+ * Generated on Tue, 06 Dec 2022 10:38:09 GMT
  */
 
 :root {
@@ -116,6 +116,14 @@
   --cds-semantic-typography-body-semibold-paragraph-spacing: 32;
   --cds-semantic-typography-body-semibold-text-case: As Typed;
   --cds-semantic-typography-body-semibold-text-decoration: None;
+  --cds-semantic-typography-body-semibold-underline-font-family: Segoe UI;
+  --cds-semantic-typography-body-semibold-underline-font-size: 14;
+  --cds-semantic-typography-body-semibold-underline-line-height: 24;
+  --cds-semantic-typography-body-semibold-underline-letter-spacing: -0.18;
+  --cds-semantic-typography-body-semibold-underline-font-weight: Semibold;
+  --cds-semantic-typography-body-semibold-underline-paragraph-spacing: 32;
+  --cds-semantic-typography-body-semibold-underline-text-case: As Typed;
+  --cds-semantic-typography-body-semibold-underline-text-decoration: Underline;
   --cds-semantic-typography-label-default-font-family: Segoe UI;
   --cds-semantic-typography-label-default-font-size: 11.2;
   --cds-semantic-typography-label-default-line-height: 16;
@@ -132,6 +140,14 @@
   --cds-semantic-typography-label-semibold-paragraph-spacing: 24;
   --cds-semantic-typography-label-semibold-text-case: As Typed;
   --cds-semantic-typography-label-semibold-text-decoration: None;
+  --cds-semantic-typography-label-semibold-underline-font-family: Segoe UI;
+  --cds-semantic-typography-label-semibold-underline-font-size: 11.2;
+  --cds-semantic-typography-label-semibold-underline-line-height: 16;
+  --cds-semantic-typography-label-semibold-underline-letter-spacing: 0;
+  --cds-semantic-typography-label-semibold-underline-font-weight: Semibold;
+  --cds-semantic-typography-label-semibold-underline-paragraph-spacing: 24;
+  --cds-semantic-typography-label-semibold-underline-text-case: As Typed;
+  --cds-semantic-typography-label-semibold-underline-text-decoration: Underline;
   --cds-semantic-typography-footnote-default-font-family: Segoe UI;
   --cds-semantic-typography-footnote-default-font-size: 8.96;
   --cds-semantic-typography-footnote-default-line-height: 8;
@@ -164,6 +180,14 @@
   --cds-semantic-typography-section-subtitle-semibold-paragraph-spacing: 32;
   --cds-semantic-typography-section-subtitle-semibold-text-case: As Typed;
   --cds-semantic-typography-section-subtitle-semibold-text-decoration: None;
+  --cds-semantic-typography-section-subtitle-semibold-underline-font-family: Segoe UI;
+  --cds-semantic-typography-section-subtitle-semibold-underline-font-size: 17.5;
+  --cds-semantic-typography-section-subtitle-semibold-underline-line-height: 24;
+  --cds-semantic-typography-section-subtitle-semibold-underline-letter-spacing: 0;
+  --cds-semantic-typography-section-subtitle-semibold-underline-font-weight: Semibold;
+  --cds-semantic-typography-section-subtitle-semibold-underline-paragraph-spacing: 32;
+  --cds-semantic-typography-section-subtitle-semibold-underline-text-case: As Typed;
+  --cds-semantic-typography-section-subtitle-semibold-underline-text-decoration: Underline;
   --cds-semantic-typography-section-title-default-font-family: Segoe UI;
   --cds-semantic-typography-section-title-default-font-size: 21.882;
   --cds-semantic-typography-section-title-default-line-height: 32;
@@ -381,6 +405,7 @@
   --cds-core-gap-2: 2;
   --cds-core-gap-4: 4;
   --cds-core-gap-8: 8;
+  --cds-core-padding-2: 2;
   --cds-core-padding-4: 4;
   --cds-core-padding-8: 8;
   --cds-core-padding-10: 10;

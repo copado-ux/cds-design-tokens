@@ -534,6 +534,40 @@
               "value": "None",
               "type": "textDecoration"
             }
+          },
+          "semiboldUnderline": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 14,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": -0.18,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "Underline",
+              "type": "textDecoration"
+            }
           }
         },
         "label": {
@@ -602,6 +636,40 @@
             },
             "textDecoration": {
               "value": "None",
+              "type": "textDecoration"
+            }
+          },
+          "semiboldUnderline": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 11.2,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 16,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 24,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "Underline",
               "type": "textDecoration"
             }
           }
@@ -742,6 +810,40 @@
             },
             "textDecoration": {
               "value": "None",
+              "type": "textDecoration"
+            }
+          },
+          "semiboldUnderline": {
+            "fontFamily": {
+              "value": "Segoe UI",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 17.5,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "Underline",
               "type": "textDecoration"
             }
           }
@@ -1967,6 +2069,10 @@
         }
       },
       "padding": {
+        "2": {
+          "value": 2,
+          "type": "spacing"
+        },
         "4": {
           "value": 4,
           "type": "spacing"
