@@ -2048,6 +2048,10 @@
         "default": {
           "value": 8,
           "type": "borderRadius"
+        },
+        "less": {
+          "value": 6,
+          "type": "borderRadius"
         }
       },
       "gap": {
