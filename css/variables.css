@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Dec 2022 13:21:37 GMT
+ * Generated on Wed, 07 Dec 2022 14:56:08 GMT
  */
 
 :root {
@@ -100,6 +100,8 @@
   --cds-semantic-color-borders-disabled: #989db0;
   --cds-semantic-color-other-divider: #dddee5;
   --cds-semantic-color-other-backdrop: #cbced8;
+  --cds-semantic-color-focus-primary: #b3d8ec;
+  --cds-semantic-color-focus-error: #f9ccc4;
   --cds-semantic-typography-body-default-font-family: Segoe UI;
   --cds-semantic-typography-body-default-font-size: 14;
   --cds-semantic-typography-body-default-line-height: 24;

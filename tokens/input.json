@@ -463,6 +463,16 @@
             "type": "color",
             "description": "overlays behind modals, etc."
           }
+        },
+        "focus": {
+          "primary": {
+            "value": "#b3d8ec",
+            "type": "color"
+          },
+          "error": {
+            "value": "#f9ccc4",
+            "type": "color"
+          }
         }
       },
       "typography": {
