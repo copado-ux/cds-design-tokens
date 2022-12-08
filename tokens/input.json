@@ -970,45 +970,6 @@
           }
         }
       },
-      "elevation": {
-        "states": {
-          "focused": {
-            "primary": {
-              "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 2,
-                "spread": 3,
-                "color": "#005786",
-                "type": "dropShadow"
-              },
-              "type": "boxShadow"
-            },
-            "error": {
-              "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 2,
-                "spread": 3,
-                "color": "#ec563b",
-                "type": "dropShadow"
-              },
-              "type": "boxShadow"
-            },
-            "secondary": {
-              "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 2,
-                "spread": 3,
-                "color": "#535B7C",
-                "type": "dropShadow"
-              },
-              "type": "boxShadow"
-            }
-          }
-        }
-      },
       "borderWidth": {
         "focus": {
           "value": 3,
