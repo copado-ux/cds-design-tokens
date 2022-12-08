@@ -1003,6 +1003,12 @@
             }
           }
         }
+      },
+      "borderWidth": {
+        "focus": {
+          "value": 3,
+          "type": "borderWidth"
+        }
       }
     },
     "core": {

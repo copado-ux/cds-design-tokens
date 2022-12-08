@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Dec 2022 10:15:05 GMT
+ * Generated on Thu, 08 Dec 2022 10:34:17 GMT
  */
 
 :root {
@@ -217,6 +217,7 @@
   --cds-semantic-elevation-states-focused-primary: [object Object];
   --cds-semantic-elevation-states-focused-error: [object Object];
   --cds-semantic-elevation-states-focused-secondary: [object Object];
+  --cds-semantic-border-width-focus: 3;
   --cds-core-color-blue-base: #007CBF;
   --cds-core-color-blue-tint-10: #1A89C5;
   --cds-core-color-blue-tint-20: #3396cc;
