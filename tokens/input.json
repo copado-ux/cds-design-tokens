@@ -299,6 +299,11 @@
             "type": "color",
             "description": "background"
           },
+          "lightest": {
+            "value": "#fdeeeb",
+            "type": "color",
+            "description": "background"
+          },
           "primary": {
             "value": "#ec563b",
             "type": "color",
