@@ -585,7 +585,7 @@
             }
           }
         },
-        "label": {
+        "smaller": {
           "default": {
             "fontFamily": {
               "value": "Segoe UI",
@@ -725,7 +725,7 @@
             }
           }
         },
-        "sectionSubtitle": {
+        "bigger": {
           "default": {
             "fontFamily": {
               "value": "Segoe UI",
