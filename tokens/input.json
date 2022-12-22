@@ -2096,20 +2096,6 @@
           "type": "spacing"
         }
       },
-      "sizing": {
-        "small": {
-          "value": 16,
-          "type": "sizing"
-        },
-        "medium": {
-          "value": 20,
-          "type": "sizing"
-        },
-        "large": {
-          "value": 24,
-          "type": "sizing"
-        }
-      },
       "borderwidth": {
         "icon": {
           "medium": {
