@@ -2035,6 +2035,10 @@
           "value": 10,
           "type": "borderRadius"
         },
+        "round": {
+          "value": 24,
+          "type": "borderRadius"
+        },
         "less": {
           "value": 6,
           "type": "borderRadius"
