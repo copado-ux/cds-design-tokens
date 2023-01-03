@@ -526,7 +526,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "value": 16,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -630,7 +630,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "value": 8,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -804,7 +804,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "value": 16,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -1606,6 +1606,11 @@
           "value": "Segoe UI",
           "type": "fontFamilies",
           "description": "https://learn.microsoft.com/en-us/windows/apps/design/downloads/"
+        },
+        "win-var": {
+          "value": "Segoe UI Variable",
+          "type": "fontFamilies",
+          "description": "https://learn.microsoft.com/en-us/windows/apps/design/style/typography"
         },
         "macos": {
           "value": "SF Pro",
