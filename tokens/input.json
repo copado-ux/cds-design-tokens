@@ -484,7 +484,7 @@
         "body": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -518,7 +518,7 @@
           },
           "semibold": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -526,7 +526,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "value": 16,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -552,7 +552,7 @@
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -588,7 +588,7 @@
         "smaller": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -622,7 +622,7 @@
           },
           "semibold": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -656,7 +656,7 @@
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -692,7 +692,7 @@
         "footnote": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -728,7 +728,7 @@
         "bigger": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -762,7 +762,7 @@
           },
           "bold": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -796,7 +796,7 @@
           },
           "semibold": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -830,7 +830,7 @@
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -866,7 +866,7 @@
         "sectionTitle": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -900,7 +900,7 @@
           },
           "bold": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -936,7 +936,7 @@
         "pageTitle": {
           "default": {
             "fontFamily": {
-              "value": "Segoe UI",
+              "value": "SF Pro",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -1623,7 +1623,7 @@
           "description": "https://fonts.google.com/specimen/Roboto"
         },
         "system": {
-          "value": "Segoe UI",
+          "value": "SF Pro",
           "type": "fontFamilies",
           "description": "System Font Used in Designs"
         },
