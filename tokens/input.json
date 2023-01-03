@@ -526,7 +526,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "value": 24,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -630,7 +630,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 8,
+              "value": 16,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -804,7 +804,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "value": 32,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -2082,6 +2082,10 @@
         },
         "6": {
           "value": 6,
+          "type": "spacing"
+        },
+        "7": {
+          "value": 7,
           "type": "spacing"
         },
         "8": {
