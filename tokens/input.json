@@ -2072,6 +2072,10 @@
         }
       },
       "padding": {
+        "0": {
+          "value": 0,
+          "type": "spacing"
+        },
         "2": {
           "value": 2,
           "type": "spacing"
