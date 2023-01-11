@@ -526,7 +526,7 @@
               "type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "value": 24,
               "type": "lineHeight"
             },
             "letterSpacing": {
@@ -987,6 +987,40 @@
             },
             "fontWeight": {
               "value": "Regular",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 48,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
+          },
+          "bold": {
+            "fontFamily": {
+              "value": "SF Pro",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 27.342,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Bold",
               "type": "fontWeights"
             },
             "paragraphSpacing": {
