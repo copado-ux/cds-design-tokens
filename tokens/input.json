@@ -391,7 +391,7 @@
             "description": "contrast backgrounds"
           },
           "canvas": {
-            "value": "#ffffff",
+            "value": "#FCFCFC",
             "type": "color",
             "description": "page backgrounds"
           }
