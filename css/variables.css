@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 13 Jan 2023 15:55:56 GMT
+ * Generated on Tue, 17 Jan 2023 14:31:02 GMT
  */
 
 :root {
@@ -427,6 +427,7 @@
   --cds-core-gap-4: 4;
   --cds-core-gap-8: 8;
   --cds-core-gap-12: 12;
+  --cds-core-gap-16: 16;
   --cds-core-padding-0: 0;
   --cds-core-padding-2: 2;
   --cds-core-padding-4: 4;
