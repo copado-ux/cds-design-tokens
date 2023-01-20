@@ -757,6 +757,40 @@
               "value": "None",
               "type": "textDecoration"
             }
+          },
+          "semibold": {
+            "fontFamily": {
+              "value": "SF Pro",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 8.96,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 8,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Semibold",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 16,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "bigger": {
