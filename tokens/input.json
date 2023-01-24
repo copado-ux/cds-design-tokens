@@ -2143,7 +2143,7 @@
           "type": "borderRadius"
         },
         "round": {
-          "value": 24,
+          "value": 32,
           "type": "borderRadius"
         },
         "less": {
