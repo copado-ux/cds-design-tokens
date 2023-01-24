@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Jan 2023 13:27:27 GMT
+ * Generated on Tue, 24 Jan 2023 08:28:40 GMT
  */
 
 :root {
@@ -446,6 +446,7 @@
   --cds-core-padding-12: 12;
   --cds-core-padding-16: 16;
   --cds-core-padding-20: 20;
+  --cds-core-padding-24: 24;
   --cds-core-borderwidth-icon-medium: 1.25;
   --cds-core-borderwidth-icon-large: 1.5;
   --cds-core-borderwidth-icon-huge: 3;

@@ -2217,6 +2217,10 @@
         "20": {
           "value": 20,
           "type": "spacing"
+        },
+        "24": {
+          "value": 24,
+          "type": "spacing"
         }
       },
       "borderwidth": {
