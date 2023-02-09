@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 31 Jan 2023 10:13:56 GMT
+ * Generated on Thu, 09 Feb 2023 11:44:18 GMT
  */
 
 :root {
@@ -103,6 +103,8 @@
   --cds-semantic-color-other-backdrop: #cbced8;
   --cds-semantic-color-focus-primary: #b3d8ec;
   --cds-semantic-color-focus-error: #f9ccc4;
+  --cds-semantic-color-mandatory-default: #ec563b;
+  --cds-semantic-color-mandatory-disabled: #fdeeeb;
   --cds-semantic-typography-body-default-font-family: SF Pro;
   --cds-semantic-typography-body-default-font-size: 14;
   --cds-semantic-typography-body-default-line-height: 24;

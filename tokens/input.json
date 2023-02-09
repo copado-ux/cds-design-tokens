@@ -478,6 +478,16 @@
             "value": "#f9ccc4",
             "type": "color"
           }
+        },
+        "mandatory": {
+          "default": {
+            "value": "#ec563b",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#fdeeeb",
+            "type": "color"
+          }
         }
       },
       "typography": {
