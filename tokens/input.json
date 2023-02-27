@@ -2229,6 +2229,10 @@
         "16": {
           "value": 16,
           "type": "spacing"
+        },
+        "32": {
+          "value": 32,
+          "type": "spacing"
         }
       },
       "padding": {
