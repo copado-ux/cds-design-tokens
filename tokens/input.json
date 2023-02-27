@@ -2275,6 +2275,18 @@
         "24": {
           "value": 24,
           "type": "spacing"
+        },
+        "32": {
+          "value": 32,
+          "type": "spacing"
+        },
+        "48": {
+          "value": 48,
+          "type": "spacing"
+        },
+        "64": {
+          "value": 64,
+          "type": "spacing"
         }
       },
       "borderwidth": {
