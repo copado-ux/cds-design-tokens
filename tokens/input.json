@@ -2233,6 +2233,10 @@
         "32": {
           "value": 32,
           "type": "spacing"
+        },
+        "64": {
+          "value": 64,
+          "type": "spacing"
         }
       },
       "padding": {
