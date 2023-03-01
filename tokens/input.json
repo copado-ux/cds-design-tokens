@@ -1899,170 +1899,408 @@
       },
       "elevation": {
         "xs": {
-          "value": [
-            {
-              "x": 0,
-              "y": 5,
-              "blur": 4,
-              "spread": -4,
-              "color": "#00000005",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 0,
-              "y": 1,
-              "blur": 2,
-              "spread": 0,
-              "color": "#0000000f",
-              "type": "dropShadow"
+            "y": {
+              "value": 5,
+              "type": "y"
+            },
+            "blur": {
+              "value": 4,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -4,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000005",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "text fields, cards, checkbox, radio button"
+          },
+          "1": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 1,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000f",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "sm": {
-          "value": [
-            {
-              "x": 0,
-              "y": 0,
-              "blur": 2,
-              "spread": 0,
-              "color": "#0000000a",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 0,
-              "y": 2,
-              "blur": 2,
-              "spread": 0,
-              "color": "#00000014",
-              "type": "dropShadow"
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000a",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "lowest elevation cards"
+          },
+          "1": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 2,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000014",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "sm-right": {
-          "value": [
-            {
-              "x": 0,
-              "y": 0,
-              "blur": 2,
-              "spread": 0,
-              "color": "#0000000a",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 2,
-              "y": 0,
-              "blur": 2,
-              "spread": 0,
-              "color": "#00000014",
-              "type": "dropShadow"
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000a",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "lowest elevation cards right direction"
+          },
+          "1": {
+            "x": {
+              "value": 2,
+              "type": "x"
+            },
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000014",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "lg": {
-          "value": [
-            {
-              "x": 0,
-              "y": 2,
-              "blur": 6,
-              "spread": 0,
-              "color": "#0000000f",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 0,
-              "y": 32,
-              "blur": 40,
-              "spread": -16,
-              "color": "#0000001f",
-              "type": "dropShadow"
+            "y": {
+              "value": 2,
+              "type": "y"
+            },
+            "blur": {
+              "value": 6,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000f",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "modal dialogue windows"
+          },
+          "1": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 32,
+              "type": "y"
+            },
+            "blur": {
+              "value": 40,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -16,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000001f",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "xl": {
-          "value": [
-            {
-              "x": 0,
-              "y": 48,
-              "blur": 64,
-              "spread": -24,
-              "color": "#0000001f",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 0,
-              "y": 24,
-              "blur": 48,
-              "spread": -8,
-              "color": "#0000001f",
-              "type": "dropShadow"
+            "y": {
+              "value": 48,
+              "type": "y"
+            },
+            "blur": {
+              "value": 64,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -24,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000001f",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "modal dialogue windows"
+          },
+          "1": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 24,
+              "type": "y"
+            },
+            "blur": {
+              "value": 48,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -8,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000001f",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "md": {
-          "value": [
-            {
-              "x": 0,
-              "y": 0,
-              "blur": 4,
-              "spread": 0,
-              "color": "#0000000a",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 0,
-              "y": 12,
-              "blur": 12,
-              "spread": -8,
-              "color": "#00000014",
-              "type": "dropShadow"
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 4,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000a",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "drop-downs, select-menus, notifications, alerts"
+          },
+          "1": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 12,
+              "type": "y"
+            },
+            "blur": {
+              "value": 12,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -8,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000014",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "md-right": {
-          "value": [
-            {
-              "x": 0,
-              "y": 0,
-              "blur": 4,
-              "spread": 0,
-              "color": "#0000000a",
-              "type": "dropShadow"
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
             },
-            {
-              "x": 12,
-              "y": 0,
-              "blur": 12,
-              "spread": -8,
-              "color": "#00000014",
-              "type": "dropShadow"
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 4,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000a",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
             }
-          ],
-          "type": "boxShadow",
-          "description": "drop-downs, select-menus, notifications, alerts\nright direction"
+          },
+          "1": {
+            "x": {
+              "value": 12,
+              "type": "x"
+            },
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 12,
+              "type": "blur"
+            },
+            "spread": {
+              "value": -8,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000014",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
         },
         "flat": {
-          "value": {
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 0,
-            "color": "#00000000",
-            "type": "dropShadow"
+          "x": {
+            "value": 0,
+            "type": "x"
           },
-          "type": "boxShadow",
-          "description": "backgrounds, section backgrounds"
+          "y": {
+            "value": 0,
+            "type": "y"
+          },
+          "blur": {
+            "value": 0,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 0,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#00000000",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
         }
       },
       "spacing": {
