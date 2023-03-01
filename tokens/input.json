@@ -2473,6 +2473,10 @@
           "value": 32,
           "type": "spacing"
         },
+        "36": {
+          "value": 36,
+          "type": "spacing"
+        },
         "64": {
           "value": 64,
           "type": "spacing"
