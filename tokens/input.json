@@ -2428,7 +2428,8 @@
       "radius": {
         "default": {
           "value": 8,
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "description": "default"
         },
         "more": {
           "value": 10,
