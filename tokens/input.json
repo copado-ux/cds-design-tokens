@@ -2480,6 +2480,10 @@
         "64": {
           "value": 64,
           "type": "spacing"
+        },
+        "-4": {
+          "value": -4,
+          "type": "spacing"
         }
       },
       "padding": {
