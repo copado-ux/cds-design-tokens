@@ -446,6 +446,11 @@
             "type": "color",
             "description": "default border color"
           },
+          "lightest": {
+            "value": "#eeeff2",
+            "type": "color",
+            "description": "light border color"
+          },
           "dark": {
             "value": "#babdcb",
             "type": "color",

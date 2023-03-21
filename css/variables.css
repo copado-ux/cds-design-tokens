@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 17 Mar 2023 13:05:07 GMT
+ * Generated on Tue, 21 Mar 2023 14:48:50 GMT
  */
 
 :root {
@@ -97,6 +97,7 @@
   --cds-semantic-color-action-dark: #cbced8;
   --cds-semantic-color-action-disabled: #eeeff2;
   --cds-semantic-color-borders-light: #dddee5;
+  --cds-semantic-color-borders-lightest: #eeeff2;
   --cds-semantic-color-borders-dark: #babdcb;
   --cds-semantic-color-borders-disabled: #989db0;
   --cds-semantic-color-other-divider: #dddee5;
