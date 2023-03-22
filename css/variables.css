@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 21 Mar 2023 14:48:50 GMT
+ * Generated on Wed, 22 Mar 2023 13:04:48 GMT
  */
 
 :root {
@@ -146,6 +146,14 @@
   --cds-semantic-typography-smaller-default-paragraph-spacing: 24;
   --cds-semantic-typography-smaller-default-text-case: As Typed;
   --cds-semantic-typography-smaller-default-text-decoration: None;
+  --cds-semantic-typography-smaller-default-underline-font-family: SF Pro;
+  --cds-semantic-typography-smaller-default-underline-font-size: 11.2;
+  --cds-semantic-typography-smaller-default-underline-line-height: 16;
+  --cds-semantic-typography-smaller-default-underline-letter-spacing: 0;
+  --cds-semantic-typography-smaller-default-underline-font-weight: Regular;
+  --cds-semantic-typography-smaller-default-underline-paragraph-spacing: 24;
+  --cds-semantic-typography-smaller-default-underline-text-case: As Typed;
+  --cds-semantic-typography-smaller-default-underline-text-decoration: Underline;
   --cds-semantic-typography-smaller-semibold-font-family: SF Pro;
   --cds-semantic-typography-smaller-semibold-font-size: 11.2;
   --cds-semantic-typography-smaller-semibold-line-height: 16;

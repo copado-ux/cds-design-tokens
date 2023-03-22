@@ -669,6 +669,40 @@
               "type": "textDecoration"
             }
           },
+          "defaultUnderline": {
+            "fontFamily": {
+              "value": "SF Pro",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 11.2,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 16,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 24,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "Underline",
+              "type": "textDecoration"
+            }
+          },
           "semibold": {
             "fontFamily": {
               "value": "SF Pro",
