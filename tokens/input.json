@@ -2481,6 +2481,10 @@
         "less": {
           "value": 6,
           "type": "borderRadius"
+        },
+        "square": {
+          "value": 0,
+          "type": "borderRadius"
         }
       },
       "gap": {
