@@ -2622,5 +2622,25 @@
       "value": "lofi",
       "type": "other"
     }
+  },
+  "dark": {
+    "id": "0162d0b43cba0e4033adc7794800b44e8ecf2eb1",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
+  },
+  "default": {
+    "id": "9bad115df66102a4cb250d6ab55720f929d4fa0d",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "semantic": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
   }
 }

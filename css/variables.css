@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 28 Mar 2023 10:57:54 GMT
+ * Generated on Wed, 29 Mar 2023 07:53:06 GMT
  */
 
 :root {
@@ -557,4 +557,6 @@
   --token-set-order-0: core;
   --token-set-order-1: semantic;
   --token-set-order-2: lofi;
+  --dark: [object Object];
+  --default: [object Object];
 }
