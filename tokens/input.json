@@ -366,7 +366,7 @@
         },
         "background": {
           "surface": {
-            "value": "#ffffff",
+            "value": "#2a2e3e",
             "type": "color",
             "description": "cards, modals, section background"
           },
@@ -376,7 +376,7 @@
             "description": "page, section backgrounds"
           },
           "lightest": {
-            "value": "#F6F7F8",
+            "value": "#424963",
             "type": "color",
             "description": "page, section backgrounds"
           },
@@ -403,12 +403,12 @@
             "description": "text, icons"
           },
           "primary": {
-            "value": "#111219",
+            "value": "#FCFCFC",
             "type": "color",
             "description": "primary text/icon color, headlines, body"
           },
           "secondary": {
-            "value": "#757c96",
+            "value": "#eeeff2",
             "type": "color",
             "description": "body, buttons, list items"
           },
@@ -2619,25 +2619,29 @@
       "type": "other"
     },
     "2": {
+      "value": "semantic_dark",
+      "type": "other"
+    },
+    "3": {
       "value": "lofi",
       "type": "other"
     }
-  },
-  "dark": {
-    "id": "0162d0b43cba0e4033adc7794800b44e8ecf2eb1",
-    "selectedTokenSets": {
-      "core": "source",
-      "semantic": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "type": "other",
-    "value": "[object Object]"
   },
   "default": {
     "id": "9bad115df66102a4cb250d6ab55720f929d4fa0d",
     "selectedTokenSets": {
       "core": "enabled",
       "semantic": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
+  },
+  "dark": {
+    "id": "6b5617c5474612bd37ebb79828d9a66017c07496",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic_dark": "enabled"
     },
     "$figmaStyleReferences": {},
     "type": "other",

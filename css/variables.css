@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 29 Mar 2023 07:53:06 GMT
+ * Generated on Wed, 29 Mar 2023 08:04:06 GMT
  */
 
 :root {
@@ -82,15 +82,15 @@
   --cds-semantic-color-info-primary: #007CBF;
   --cds-semantic-color-info-medium: #005786;
   --cds-semantic-color-info-contrast: #00324c;
-  --cds-semantic-color-background-surface: #ffffff;
+  --cds-semantic-color-background-surface: #2a2e3e;
   --cds-semantic-color-background-light: #eeeff2;
-  --cds-semantic-color-background-lightest: #F6F7F8;
+  --cds-semantic-color-background-lightest: #424963;
   --cds-semantic-color-background-medium: #dddee5;
   --cds-semantic-color-background-contrast: #3a4057;
   --cds-semantic-color-background-canvas: #FCFCFC;
   --cds-semantic-color-text-constrast: #ffffff;
-  --cds-semantic-color-text-primary: #111219;
-  --cds-semantic-color-text-secondary: #757c96;
+  --cds-semantic-color-text-primary: #FCFCFC;
+  --cds-semantic-color-text-secondary: #eeeff2;
   --cds-semantic-color-text-hint: #cbced8;
   --cds-semantic-color-text-disabled: #989db0;
   --cds-semantic-color-action-light: #eeeff2;
@@ -556,7 +556,8 @@
   --cds-core-borderwidth-icon-small: 1;
   --token-set-order-0: core;
   --token-set-order-1: semantic;
-  --token-set-order-2: lofi;
-  --dark: [object Object];
+  --token-set-order-2: semantic_dark;
+  --token-set-order-3: lofi;
   --default: [object Object];
+  --dark: [object Object];
 }
