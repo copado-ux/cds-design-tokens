@@ -632,6 +632,40 @@
               "value": "Underline",
               "type": "textDecoration"
             }
+          },
+          "defaultMono": {
+            "fontFamily": {
+              "value": "SF Mono",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 14,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeight"
+            },
+            "letterSpacing": {
+              "value": -0.18,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
           }
         },
         "smaller": {
@@ -1765,6 +1799,11 @@
         },
         "macos": {
           "value": "SF Pro",
+          "type": "fontFamilies",
+          "description": "https://developer.apple.com/fonts/"
+        },
+        "macos-mono": {
+          "value": "SF Mono",
           "type": "fontFamilies",
           "description": "https://developer.apple.com/fonts/"
         },

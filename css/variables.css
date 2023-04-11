@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 29 Mar 2023 08:04:06 GMT
+ * Generated on Tue, 11 Apr 2023 13:13:42 GMT
  */
 
 :root {
@@ -138,6 +138,14 @@
   --cds-semantic-typography-body-semibold-underline-paragraph-spacing: 32;
   --cds-semantic-typography-body-semibold-underline-text-case: As Typed;
   --cds-semantic-typography-body-semibold-underline-text-decoration: Underline;
+  --cds-semantic-typography-body-default-mono-font-family: SF Mono;
+  --cds-semantic-typography-body-default-mono-font-size: 14;
+  --cds-semantic-typography-body-default-mono-line-height: 24;
+  --cds-semantic-typography-body-default-mono-letter-spacing: -0.18;
+  --cds-semantic-typography-body-default-mono-font-weight: Regular;
+  --cds-semantic-typography-body-default-mono-paragraph-spacing: 32;
+  --cds-semantic-typography-body-default-mono-text-case: As Typed;
+  --cds-semantic-typography-body-default-mono-text-decoration: None;
   --cds-semantic-typography-smaller-default-font-family: SF Pro;
   --cds-semantic-typography-smaller-default-font-size: 11.2;
   --cds-semantic-typography-smaller-default-line-height: 16;
@@ -371,6 +379,7 @@
   --cds-core-font-win: Segoe UI;
   --cds-core-font-win-var: Segoe UI Variable;
   --cds-core-font-macos: SF Pro;
+  --cds-core-font-macos-mono: SF Mono;
   --cds-core-font-android: Roboto;
   --cds-core-font-system: SF Pro;
   --cds-core-font-rem: 14;
