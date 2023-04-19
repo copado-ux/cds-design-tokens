@@ -9,6 +9,16 @@
           "format": "css/variables"
         }
       ]
+    },
+    
+    "sass": {
+      "transformGroup": "sass",
+      "files": [
+        {
+          "destination": "sass/variables.css",
+          "format": "sass/variables"
+        }
+      ]
     }
   }
 }
