@@ -1923,6 +1923,10 @@
           "10": {
             "value": 80,
             "type": "lineHeights"
+          },
+          "11": {
+            "value": 88,
+            "type": "lineHeights"
           }
         },
         "weight": {
