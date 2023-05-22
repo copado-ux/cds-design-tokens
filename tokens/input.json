@@ -2142,6 +2142,60 @@
             }
           }
         },
+        "sm-left": {
+          "0": {
+            "x": {
+              "value": 0,
+              "type": "x"
+            },
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#0000000a",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          },
+          "1": {
+            "x": {
+              "value": -2,
+              "type": "x"
+            },
+            "y": {
+              "value": 0,
+              "type": "y"
+            },
+            "blur": {
+              "value": 2,
+              "type": "blur"
+            },
+            "spread": {
+              "value": 0,
+              "type": "spread"
+            },
+            "color": {
+              "value": "#00000014",
+              "type": "color"
+            },
+            "type": {
+              "value": "dropShadow",
+              "type": "type"
+            }
+          }
+        },
         "lg": {
           "0": {
             "x": {

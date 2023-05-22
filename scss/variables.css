@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 12:56:49 GMT
+// Generated on Mon, 22 May 2023 10:14:35 GMT
 
 $cds-lofi-typography-body-font-family: Roboto Mono;
 $cds-lofi-typography-body-font-weight: 400;
@@ -451,6 +451,18 @@ $cds-core-elevation-sm-right-1-blur: 2;
 $cds-core-elevation-sm-right-1-spread: 0;
 $cds-core-elevation-sm-right-1-color: #00000014;
 $cds-core-elevation-sm-right-1-type: dropShadow;
+$cds-core-elevation-sm-left-0-x: 0;
+$cds-core-elevation-sm-left-0-y: 0;
+$cds-core-elevation-sm-left-0-blur: 2;
+$cds-core-elevation-sm-left-0-spread: 0;
+$cds-core-elevation-sm-left-0-color: #0000000a;
+$cds-core-elevation-sm-left-0-type: dropShadow;
+$cds-core-elevation-sm-left-1-x: -2;
+$cds-core-elevation-sm-left-1-y: 0;
+$cds-core-elevation-sm-left-1-blur: 2;
+$cds-core-elevation-sm-left-1-spread: 0;
+$cds-core-elevation-sm-left-1-color: #00000014;
+$cds-core-elevation-sm-left-1-type: dropShadow;
 $cds-core-elevation-lg-0-x: 0;
 $cds-core-elevation-lg-0-y: 2;
 $cds-core-elevation-lg-0-blur: 6;
