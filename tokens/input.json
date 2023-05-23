@@ -2579,6 +2579,10 @@
           "value": 6,
           "type": "borderRadius"
         },
+        "lesser": {
+          "value": 2,
+          "type": "borderRadius"
+        },
         "square": {
           "value": 0,
           "type": "borderRadius"
