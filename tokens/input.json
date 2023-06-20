@@ -13,7 +13,7 @@
           },
           "lineHeight": {
             "value": 24,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 14,
@@ -47,7 +47,7 @@
           },
           "lineHeight": {
             "value": 24,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 14,
@@ -81,7 +81,7 @@
           },
           "lineHeight": {
             "value": 20,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 11.2,
@@ -115,7 +115,7 @@
           },
           "lineHeight": {
             "value": 16,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 8.96,
@@ -149,7 +149,7 @@
           },
           "lineHeight": {
             "value": 32,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 17.5,
@@ -183,7 +183,7 @@
           },
           "lineHeight": {
             "value": 48,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 21.882,
@@ -217,7 +217,7 @@
           },
           "lineHeight": {
             "value": 64,
-            "type": "lineHeight"
+            "type": "lineHeights"
           },
           "fontSize": {
             "value": 27.342,
@@ -508,7 +508,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": -0.18,
@@ -542,7 +542,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": -0.18,
@@ -576,7 +576,7 @@
             },
             "lineHeight": {
               "value": 16,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": -0.18,
@@ -610,7 +610,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": -0.18,
@@ -644,7 +644,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": -0.18,
@@ -680,7 +680,7 @@
             },
             "lineHeight": {
               "value": 16,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -714,7 +714,7 @@
             },
             "lineHeight": {
               "value": 16,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -748,7 +748,7 @@
             },
             "lineHeight": {
               "value": 16,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -782,7 +782,7 @@
             },
             "lineHeight": {
               "value": 16,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -818,7 +818,7 @@
             },
             "lineHeight": {
               "value": 8,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -852,7 +852,7 @@
             },
             "lineHeight": {
               "value": 8,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -888,7 +888,7 @@
             },
             "lineHeight": {
               "value": 32,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -922,7 +922,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -956,7 +956,7 @@
             },
             "lineHeight": {
               "value": 32,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -990,7 +990,7 @@
             },
             "lineHeight": {
               "value": 24,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -1026,7 +1026,7 @@
             },
             "lineHeight": {
               "value": 32,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -1060,7 +1060,7 @@
             },
             "lineHeight": {
               "value": 32,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -1096,7 +1096,7 @@
             },
             "lineHeight": {
               "value": 40,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
@@ -1130,7 +1130,7 @@
             },
             "lineHeight": {
               "value": 40,
-              "type": "lineHeight"
+              "type": "lineHeights"
             },
             "letterSpacing": {
               "value": 0,
