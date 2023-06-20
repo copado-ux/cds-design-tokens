@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 20 Jun 2023 13:44:35 GMT
+// Generated on Tue, 20 Jun 2023 13:47:45 GMT
 
 $cds-lofi-typography-body-font-family: Roboto Mono;
 $cds-lofi-typography-body-font-weight: 400;
@@ -80,15 +80,15 @@ $cds-semantic-color-info-light: #cce5f2;
 $cds-semantic-color-info-primary: #007CBF;
 $cds-semantic-color-info-medium: #005786;
 $cds-semantic-color-info-contrast: #00324c;
-$cds-semantic-color-background-surface: #2a2e3e;
+$cds-semantic-color-background-surface: #ffffff;
 $cds-semantic-color-background-light: #eeeff2;
-$cds-semantic-color-background-lightest: #424963;
+$cds-semantic-color-background-lightest: #F6F7F8;
 $cds-semantic-color-background-medium: #dddee5;
 $cds-semantic-color-background-contrast: #3a4057;
 $cds-semantic-color-background-canvas: #FCFCFC;
 $cds-semantic-color-text-constrast: #ffffff;
-$cds-semantic-color-text-primary: #FCFCFC;
-$cds-semantic-color-text-secondary: #eeeff2;
+$cds-semantic-color-text-primary: #111219;
+$cds-semantic-color-text-secondary: #757c96;
 $cds-semantic-color-text-hint: #cbced8;
 $cds-semantic-color-text-disabled: #989db0;
 $cds-semantic-color-action-light: #eeeff2;
@@ -112,6 +112,14 @@ $cds-semantic-typography-body-default-font-weight: Regular;
 $cds-semantic-typography-body-default-paragraph-spacing: 32;
 $cds-semantic-typography-body-default-text-case: As Typed;
 $cds-semantic-typography-body-default-text-decoration: None;
+$cds-semantic-typography-body-default-mono-font-family: SF Mono;
+$cds-semantic-typography-body-default-mono-font-size: 14;
+$cds-semantic-typography-body-default-mono-line-height: 24;
+$cds-semantic-typography-body-default-mono-letter-spacing: -0.18;
+$cds-semantic-typography-body-default-mono-font-weight: Regular;
+$cds-semantic-typography-body-default-mono-paragraph-spacing: 32;
+$cds-semantic-typography-body-default-mono-text-case: As Typed;
+$cds-semantic-typography-body-default-mono-text-decoration: None;
 $cds-semantic-typography-body-semibold-font-family: SF Pro;
 $cds-semantic-typography-body-semibold-font-size: 14;
 $cds-semantic-typography-body-semibold-line-height: 24;
@@ -136,14 +144,6 @@ $cds-semantic-typography-body-semibold-underline-font-weight: Semibold;
 $cds-semantic-typography-body-semibold-underline-paragraph-spacing: 32;
 $cds-semantic-typography-body-semibold-underline-text-case: As Typed;
 $cds-semantic-typography-body-semibold-underline-text-decoration: Underline;
-$cds-semantic-typography-body-default-mono-font-family: SF Mono;
-$cds-semantic-typography-body-default-mono-font-size: 14;
-$cds-semantic-typography-body-default-mono-line-height: 24;
-$cds-semantic-typography-body-default-mono-letter-spacing: -0.18;
-$cds-semantic-typography-body-default-mono-font-weight: Regular;
-$cds-semantic-typography-body-default-mono-paragraph-spacing: 32;
-$cds-semantic-typography-body-default-mono-text-case: As Typed;
-$cds-semantic-typography-body-default-mono-text-decoration: None;
 $cds-semantic-typography-smaller-default-font-family: SF Pro;
 $cds-semantic-typography-smaller-default-font-size: 11.2;
 $cds-semantic-typography-smaller-default-line-height: 16;
@@ -577,7 +577,5 @@ $cds-core-borderwidth-icon-huge: 3;
 $cds-core-borderwidth-icon-small: 1;
 $token-set-order-0: core;
 $token-set-order-1: semantic;
-$token-set-order-2: semantic_dark;
-$token-set-order-3: lofi;
+$token-set-order-2: lofi;
 $default: [object Object];
-$dark: [object Object];

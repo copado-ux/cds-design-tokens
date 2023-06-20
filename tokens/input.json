@@ -366,7 +366,7 @@
         },
         "background": {
           "surface": {
-            "value": "#2a2e3e",
+            "value": "#ffffff",
             "type": "color",
             "description": "cards, modals, section background"
           },
@@ -376,7 +376,7 @@
             "description": "page, section backgrounds"
           },
           "lightest": {
-            "value": "#424963",
+            "value": "#F6F7F8",
             "type": "color",
             "description": "page, section backgrounds"
           },
@@ -403,12 +403,12 @@
             "description": "text, icons"
           },
           "primary": {
-            "value": "#FCFCFC",
+            "value": "#111219",
             "type": "color",
             "description": "primary text/icon color, headlines, body"
           },
           "secondary": {
-            "value": "#eeeff2",
+            "value": "#757c96",
             "type": "color",
             "description": "body, buttons, list items"
           },
@@ -500,6 +500,40 @@
           "default": {
             "fontFamily": {
               "value": "SF Pro",
+              "type": "fontFamilies"
+            },
+            "fontSize": {
+              "value": 14,
+              "type": "fontSizes"
+            },
+            "lineHeight": {
+              "value": 24,
+              "type": "lineHeights"
+            },
+            "letterSpacing": {
+              "value": -0.18,
+              "type": "letterSpacing"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "value": 32,
+              "type": "paragraphSpacing"
+            },
+            "textCase": {
+              "value": "As Typed",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "None",
+              "type": "textDecoration"
+            }
+          },
+          "defaultMono": {
+            "fontFamily": {
+              "value": "SF Mono",
               "type": "fontFamilies"
             },
             "fontSize": {
@@ -630,40 +664,6 @@
             },
             "textDecoration": {
               "value": "Underline",
-              "type": "textDecoration"
-            }
-          },
-          "defaultMono": {
-            "fontFamily": {
-              "value": "SF Mono",
-              "type": "fontFamilies"
-            },
-            "fontSize": {
-              "value": 14,
-              "type": "fontSizes"
-            },
-            "lineHeight": {
-              "value": 24,
-              "type": "lineHeights"
-            },
-            "letterSpacing": {
-              "value": -0.18,
-              "type": "letterSpacing"
-            },
-            "fontWeight": {
-              "value": "Regular",
-              "type": "fontWeights"
-            },
-            "paragraphSpacing": {
-              "value": 32,
-              "type": "paragraphSpacing"
-            },
-            "textCase": {
-              "value": "As Typed",
-              "type": "textCase"
-            },
-            "textDecoration": {
-              "value": "None",
               "type": "textDecoration"
             }
           }
@@ -2720,10 +2720,6 @@
       "type": "other"
     },
     "2": {
-      "value": "semantic_dark",
-      "type": "other"
-    },
-    "3": {
       "value": "lofi",
       "type": "other"
     }
@@ -2927,16 +2923,6 @@
       "cds.core.elevation.flat": "S:4de8805b0f0518559860a90de7717c952ff2d5fc,",
       "cds.core.elevation.sm-left": "S:308196d24b270a28fec31ea76b2b4313b1f85077,"
     },
-    "type": "other",
-    "value": "[object Object]"
-  },
-  "dark": {
-    "id": "6b5617c5474612bd37ebb79828d9a66017c07496",
-    "selectedTokenSets": {
-      "core": "source",
-      "semantic_dark": "enabled"
-    },
-    "$figmaStyleReferences": {},
     "type": "other",
     "value": "[object Object]"
   }
