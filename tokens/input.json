@@ -4,251 +4,251 @@
       "color": {
         "accent": {
           "primary": {
-            "value": "#007CBF",
+            "$value": "#007CBF",
             "$type": "color",
-            "description": "text, accent backgrounds"
+            "$description": "text, accent backgrounds"
           },
           "background": {
-            "value": "#e6f2f9",
+            "$value": "#e6f2f9",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "contrast": {
-            "value": "#ffffff",
+            "$value": "#ffffff",
             "$type": "color",
-            "description": "contrast text, icons"
+            "$description": "contrast text, icons"
           },
           "light": {
-            "value": "#4da3d2",
+            "$value": "#4da3d2",
             "$type": "color",
-            "description": "secondary text, icons"
+            "$description": "secondary text, icons"
           },
           "medium": {
-            "value": "#005786",
+            "$value": "#005786",
             "$type": "color",
-            "description": "hover"
+            "$description": "hover"
           }
         },
         "success": {
           "light": {
-            "value": "#ccefec",
+            "$value": "#ccefec",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "primary": {
-            "value": "#00B1A0",
+            "$value": "#00B1A0",
             "$type": "color",
-            "description": "text, icon, background"
+            "$description": "text, icon, background"
           },
           "medium": {
-            "value": "#007c70",
+            "$value": "#007c70",
             "$type": "color",
-            "description": "hover"
+            "$description": "hover"
           },
           "contrast": {
-            "value": "#004740",
+            "$value": "#004740",
             "$type": "color",
-            "description": "text, icon"
+            "$description": "text, icon"
           }
         },
         "error": {
           "light": {
-            "value": "#fbddd8",
+            "$value": "#fbddd8",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "lightest": {
-            "value": "#fdeeeb",
+            "$value": "#fdeeeb",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "primary": {
-            "value": "#ec563b",
+            "$value": "#ec563b",
             "$type": "color",
-            "description": "text, icon, background"
+            "$description": "text, icon, background"
           },
           "medium": {
-            "value": "#a53c29",
+            "$value": "#a53c29",
             "$type": "color",
-            "description": "hover"
+            "$description": "hover"
           },
           "contrast": {
-            "value": "#471a12",
+            "$value": "#471a12",
             "$type": "color",
-            "description": "text, icon"
+            "$description": "text, icon"
           }
         },
         "alert": {
           "light": {
-            "value": "#fff5cc",
+            "$value": "#fff5cc",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "primary": {
-            "value": "#ffcc00",
+            "$value": "#ffcc00",
             "$type": "color",
-            "description": "text, icon, background"
+            "$description": "text, icon, background"
           },
           "medium": {
-            "value": "#b38f00",
+            "$value": "#b38f00",
             "$type": "color",
-            "description": "hover"
+            "$description": "hover"
           },
           "contrast": {
-            "value": "#4c3d00",
+            "$value": "#4c3d00",
             "$type": "color",
-            "description": "text, icon"
+            "$description": "text, icon"
           }
         },
         "info": {
           "light": {
-            "value": "#cce5f2",
+            "$value": "#cce5f2",
             "$type": "color",
-            "description": "background"
+            "$description": "background"
           },
           "primary": {
-            "value": "#007CBF",
+            "$value": "#007CBF",
             "$type": "color",
-            "description": "text, icon, background"
+            "$description": "text, icon, background"
           },
           "medium": {
-            "value": "#005786",
+            "$value": "#005786",
             "$type": "color",
-            "description": "hover"
+            "$description": "hover"
           },
           "contrast": {
-            "value": "#00324c",
+            "$value": "#00324c",
             "$type": "color",
-            "description": "text, icon"
+            "$description": "text, icon"
           }
         },
         "background": {
           "surface": {
-            "value": "#ffffff",
+            "$value": "#ffffff",
             "$type": "color",
-            "description": "cards, modals, section background"
+            "$description": "cards, modals, section background"
           },
           "light": {
-            "value": "#eeeff2",
+            "$value": "#eeeff2",
             "$type": "color",
-            "description": "page, section backgrounds"
+            "$description": "page, section backgrounds"
           },
           "lightest": {
-            "value": "#F6F7F8",
+            "$value": "#F6F7F8",
             "$type": "color",
-            "description": "page, section backgrounds"
+            "$description": "page, section backgrounds"
           },
           "medium": {
-            "value": "#dddee5",
+            "$value": "#dddee5",
             "$type": "color",
-            "description": "page backgrounds"
+            "$description": "page backgrounds"
           },
           "contrast": {
-            "value": "#3a4057",
+            "$value": "#3a4057",
             "$type": "color",
-            "description": "contrast backgrounds"
+            "$description": "contrast backgrounds"
           },
           "canvas": {
-            "value": "#FCFCFC",
+            "$value": "#FCFCFC",
             "$type": "color",
-            "description": "page backgrounds"
+            "$description": "page backgrounds"
           }
         },
         "text": {
           "contrast": {
-            "value": "#ffffff",
+            "$value": "#ffffff",
             "$type": "color",
-            "description": "text, icons"
+            "$description": "text, icons"
           },
           "primary": {
-            "value": "#111219",
+            "$value": "#111219",
             "$type": "color",
-            "description": "primary text/icon color, headlines, body"
+            "$description": "primary text/icon color, headlines, body"
           },
           "secondary": {
-            "value": "#757c96",
+            "$value": "#757c96",
             "$type": "color",
-            "description": "body, buttons, list items"
+            "$description": "body, buttons, list items"
           },
           "hint": {
-            "value": "#cbced8",
+            "$value": "#cbced8",
             "$type": "color",
-            "description": "helper text"
+            "$description": "helper text"
           },
           "disabled": {
-            "value": "#989db0",
+            "$value": "#989db0",
             "$type": "color",
-            "description": "disabled text/icons"
+            "$description": "disabled text/icons"
           }
         },
         "action": {
           "light": {
-            "value": "#eeeff2",
+            "$value": "#eeeff2",
             "$type": "color",
-            "description": "default state"
+            "$description": "default state"
           },
           "dark": {
-            "value": "#cbced8",
+            "$value": "#cbced8",
             "$type": "color",
-            "description": "hover state"
+            "$description": "hover state"
           },
           "disabled": {
-            "value": "#eeeff2",
+            "$value": "#eeeff2",
             "$type": "color",
-            "description": "disabled state"
+            "$description": "disabled state"
           }
         },
         "borders": {
           "light": {
-            "value": "#dddee5",
+            "$value": "#dddee5",
             "$type": "color",
-            "description": "default border color"
+            "$description": "default border color"
           },
           "lightest": {
-            "value": "#eeeff2",
+            "$value": "#eeeff2",
             "$type": "color",
-            "description": "light border color"
+            "$description": "light border color"
           },
           "dark": {
-            "value": "#babdcb",
+            "$value": "#babdcb",
             "$type": "color",
-            "description": "hover on borders"
+            "$description": "hover on borders"
           },
           "disabled": {
-            "value": "#989db0",
+            "$value": "#989db0",
             "$type": "color",
-            "description": "disabled"
+            "$description": "disabled"
           }
         },
         "other": {
           "divider": {
-            "value": "#dddee5",
+            "$value": "#dddee5",
             "$type": "color",
-            "description": "dividers"
+            "$description": "dividers"
           },
           "backdrop": {
-            "value": "#cbced8",
+            "$value": "#cbced8",
             "$type": "color",
-            "description": "overlays behind modals, etc."
+            "$description": "overlays behind modals, etc."
           }
         },
         "focus": {
           "primary": {
-            "value": "#b3d8ec",
+            "$value": "#b3d8ec",
             "$type": "color"
           },
           "error": {
-            "value": "#f9ccc4",
+            "$value": "#f9ccc4",
             "$type": "color"
           }
         },
         "mandatory": {
           "default": {
-            "value": "#ec563b",
+            "$value": "#ec563b",
             "$type": "color"
           },
           "disabled": {
-            "value": "#fdeeeb",
+            "$value": "#fdeeeb",
             "$type": "color"
           }
         }
@@ -257,171 +257,171 @@
         "body": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 14,
+              "$value": 14,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": -0.18,
+              "$value": -0.18,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "defaultMono": {
             "fontFamily": {
-              "value": "SF Mono",
+              "$value": "SF Mono",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 14,
+              "$value": 14,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": -0.18,
+              "$value": -0.18,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semibold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 14,
+              "$value": 14,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": -0.18,
+              "$value": -0.18,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semiboldUppercase": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 14,
+              "$value": 14,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": -0.18,
+              "$value": -0.18,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "Uppercase",
+              "$value": "Uppercase",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 14,
+              "$value": 14,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": -0.18,
+              "$value": -0.18,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "Underline",
+              "$value": "Underline",
               "$type": "textDecoration"
             }
           }
@@ -429,137 +429,137 @@
         "smaller": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 11.2,
+              "$value": 11.2,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 24,
+              "$value": 24,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "defaultUnderline": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 11.2,
+              "$value": 11.2,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 24,
+              "$value": 24,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "Underline",
+              "$value": "Underline",
               "$type": "textDecoration"
             }
           },
           "semibold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 11.2,
+              "$value": 11.2,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 24,
+              "$value": 24,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 11.2,
+              "$value": 11.2,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 16,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 24,
+              "$value": 24,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "Underline",
+              "$value": "Underline",
               "$type": "textDecoration"
             }
           }
@@ -567,69 +567,69 @@
         "footnote": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 8.96,
+              "$value": 8.96,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 8,
+              "$value": 8,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 16,
+              "$value": 16,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semibold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 8.96,
+              "$value": 8.96,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 8,
+              "$value": 8,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 16,
+              "$value": 16,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           }
@@ -637,137 +637,137 @@
         "bigger": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 17.5,
+              "$value": 17.5,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 32,
+              "$value": 32,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "bold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 17.5,
+              "$value": 17.5,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Bold",
+              "$value": "Bold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semibold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 17.5,
+              "$value": 17.5,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 32,
+              "$value": 32,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "semiboldUnderline": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 17.5,
+              "$value": 17.5,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 24,
+              "$value": 24,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Semibold",
+              "$value": "Semibold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 32,
+              "$value": 32,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "Underline",
+              "$value": "Underline",
               "$type": "textDecoration"
             }
           }
@@ -775,69 +775,69 @@
         "sectionTitle": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 21.882,
+              "$value": 21.882,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 32,
+              "$value": 32,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 40,
+              "$value": 40,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "bold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 21.882,
+              "$value": 21.882,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 32,
+              "$value": 32,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Bold",
+              "$value": "Bold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 40,
+              "$value": 40,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           }
@@ -845,69 +845,69 @@
         "pageTitle": {
           "default": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 27.342,
+              "$value": 27.342,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 40,
+              "$value": 40,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Regular",
+              "$value": "Regular",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 48,
+              "$value": 48,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           },
           "bold": {
             "fontFamily": {
-              "value": "SF Pro",
+              "$value": "SF Pro",
               "$type": "fontFamilies"
             },
             "fontSize": {
-              "value": 27.342,
+              "$value": 27.342,
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "value": 40,
+              "$value": 40,
               "$type": "lineHeights"
             },
             "letterSpacing": {
-              "value": 0,
+              "$value": 0,
               "$type": "letterSpacing"
             },
             "fontWeight": {
-              "value": "Bold",
+              "$value": "Bold",
               "$type": "fontWeights"
             },
             "paragraphSpacing": {
-              "value": 48,
+              "$value": 48,
               "$type": "paragraphSpacing"
             },
             "textCase": {
-              "value": "As Typed",
+              "$value": "As Typed",
               "$type": "textCase"
             },
             "textDecoration": {
-              "value": "None",
+              "$value": "None",
               "$type": "textDecoration"
             }
           }
@@ -915,7 +915,7 @@
       },
       "borderWidth": {
         "focus": {
-          "value": 3,
+          "$value": 3,
           "$type": "borderWidth"
         }
       }
@@ -924,870 +924,870 @@
       "color": {
         "blue": {
           "base": {
-            "value": "#007CBF",
+            "$value": "#007CBF",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#1A89C5",
+              "$value": "#1A89C5",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#3396cc",
+              "$value": "#3396cc",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#4da3d2",
+              "$value": "#4da3d2",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#66b0d9",
+              "$value": "#66b0d9",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#80bedf",
+              "$value": "#80bedf",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#99cbe5",
+              "$value": "#99cbe5",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#b3d8ec",
+              "$value": "#b3d8ec",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#cce5f2",
+              "$value": "#cce5f2",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#e6f2f9",
+              "$value": "#e6f2f9",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           },
           "shade": {
             "10": {
-              "value": "#0070ac",
+              "$value": "#0070ac",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#006399",
+              "$value": "#006399",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#005786",
+              "$value": "#005786",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#004a73",
+              "$value": "#004a73",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#003e60",
+              "$value": "#003e60",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#00324c",
+              "$value": "#00324c",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#002539",
+              "$value": "#002539",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#001926",
+              "$value": "#001926",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#000c13",
+              "$value": "#000c13",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "gray": {
           "base": {
-            "value": "#535B7C",
+            "$value": "#535B7C",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#646b89",
+              "$value": "#646b89",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#757c96",
+              "$value": "#757c96",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#878ca3",
+              "$value": "#878ca3",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#989db0",
+              "$value": "#989db0",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#a9adbe",
+              "$value": "#a9adbe",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#babdcb",
+              "$value": "#babdcb",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#cbced8",
+              "$value": "#cbced8",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#dddee5",
+              "$value": "#dddee5",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#eeeff2",
+              "$value": "#eeeff2",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             },
             "95": {
-              "value": "#F6F7F8",
+              "$value": "#F6F7F8",
               "$type": "color",
-              "description": "95%"
+              "$description": "95%"
             },
             "98": {
-              "value": "#FCFCFC",
+              "$value": "#FCFCFC",
               "$type": "color",
-              "description": "98"
+              "$description": "98"
             }
           },
           "shade": {
             "10": {
-              "value": "#4b5270",
+              "$value": "#4b5270",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#424963",
+              "$value": "#424963",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#3a4057",
+              "$value": "#3a4057",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#32374a",
+              "$value": "#32374a",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#2a2e3e",
+              "$value": "#2a2e3e",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#212432",
+              "$value": "#212432",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#191b25",
+              "$value": "#191b25",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#111219",
+              "$value": "#111219",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#08090c",
+              "$value": "#08090c",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "green": {
           "base": {
-            "value": "#00B1A0",
+            "$value": "#00B1A0",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#1ab9aa",
+              "$value": "#1ab9aa",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#33c1b3",
+              "$value": "#33c1b3",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#4dc8bd",
+              "$value": "#4dc8bd",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#66d0c6",
+              "$value": "#66d0c6",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#80d8d0",
+              "$value": "#80d8d0",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#99e0d9",
+              "$value": "#99e0d9",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#b3e8e3",
+              "$value": "#b3e8e3",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#ccefec",
+              "$value": "#ccefec",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#e6f7f6",
+              "$value": "#e6f7f6",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           },
           "shade": {
             "10": {
-              "value": "#009f90",
+              "$value": "#009f90",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#008e80",
+              "$value": "#008e80",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#007c70",
+              "$value": "#007c70",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#006a60",
+              "$value": "#006a60",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#005950",
+              "$value": "#005950",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#004740",
+              "$value": "#004740",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#003530",
+              "$value": "#003530",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#002320",
+              "$value": "#002320",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#001210",
+              "$value": "#001210",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "yellow": {
           "base": {
-            "value": "#ffcc00",
+            "$value": "#ffcc00",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#ffd11a",
+              "$value": "#ffd11a",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#ffd633",
+              "$value": "#ffd633",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#ffdb4d",
+              "$value": "#ffdb4d",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#ffe066",
+              "$value": "#ffe066",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#ffe680",
+              "$value": "#ffe680",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#ffeb99",
+              "$value": "#ffeb99",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#fff0b3",
+              "$value": "#fff0b3",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#fff5cc",
+              "$value": "#fff5cc",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#fffae6",
+              "$value": "#fffae6",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           },
           "shade": {
             "10": {
-              "value": "#e6b800",
+              "$value": "#e6b800",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#cca300",
+              "$value": "#cca300",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#b38f00",
+              "$value": "#b38f00",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#997a00",
+              "$value": "#997a00",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#806600",
+              "$value": "#806600",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#665200",
+              "$value": "#665200",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#4c3d00",
+              "$value": "#4c3d00",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#332900",
+              "$value": "#332900",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#191400",
+              "$value": "#191400",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "red": {
           "base": {
-            "value": "#ec563b",
+            "$value": "#ec563b",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#ee674f",
+              "$value": "#ee674f",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#f07862",
+              "$value": "#f07862",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#f28976",
+              "$value": "#f28976",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#f49a89",
+              "$value": "#f49a89",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#f6ab9d",
+              "$value": "#f6ab9d",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#f7bbb1",
+              "$value": "#f7bbb1",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#f9ccc4",
+              "$value": "#f9ccc4",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#fbddd8",
+              "$value": "#fbddd8",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#fdeeeb",
+              "$value": "#fdeeeb",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           },
           "shade": {
             "10": {
-              "value": "#d44d35",
+              "$value": "#d44d35",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#bd452f",
+              "$value": "#bd452f",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#a53c29",
+              "$value": "#a53c29",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#8e3423",
+              "$value": "#8e3423",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#762b1e",
+              "$value": "#762b1e",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#5e2218",
+              "$value": "#5e2218",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#471a12",
+              "$value": "#471a12",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#2f110c",
+              "$value": "#2f110c",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#180906",
+              "$value": "#180906",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "purple": {
           "base": {
-            "value": "#7000c5",
+            "$value": "#7000c5",
             "$type": "color",
-            "description": "base"
+            "$description": "base"
           },
           "tint": {
             "10": {
-              "value": "#7e1acb",
+              "$value": "#7e1acb",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#8d33d1",
+              "$value": "#8d33d1",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#9b4dd6",
+              "$value": "#9b4dd6",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#a966dc",
+              "$value": "#a966dc",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#b880e2",
+              "$value": "#b880e2",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#c699e8",
+              "$value": "#c699e8",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#d4b3ee",
+              "$value": "#d4b3ee",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#e2ccf3",
+              "$value": "#e2ccf3",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#f1e6f9",
+              "$value": "#f1e6f9",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           },
           "shade": {
             "10": {
-              "value": "#6500b1",
+              "$value": "#6500b1",
               "$type": "color",
-              "description": "10%"
+              "$description": "10%"
             },
             "20": {
-              "value": "#5a009e",
+              "$value": "#5a009e",
               "$type": "color",
-              "description": "20%"
+              "$description": "20%"
             },
             "30": {
-              "value": "#4e008a",
+              "$value": "#4e008a",
               "$type": "color",
-              "description": "30%"
+              "$description": "30%"
             },
             "40": {
-              "value": "#430076",
+              "$value": "#430076",
               "$type": "color",
-              "description": "40%"
+              "$description": "40%"
             },
             "50": {
-              "value": "#380063",
+              "$value": "#380063",
               "$type": "color",
-              "description": "50%"
+              "$description": "50%"
             },
             "60": {
-              "value": "#2d004f",
+              "$value": "#2d004f",
               "$type": "color",
-              "description": "60%"
+              "$description": "60%"
             },
             "70": {
-              "value": "#22003b",
+              "$value": "#22003b",
               "$type": "color",
-              "description": "70%"
+              "$description": "70%"
             },
             "80": {
-              "value": "#160027",
+              "$value": "#160027",
               "$type": "color",
-              "description": "80%"
+              "$description": "80%"
             },
             "90": {
-              "value": "#0b0014",
+              "$value": "#0b0014",
               "$type": "color",
-              "description": "90%"
+              "$description": "90%"
             }
           }
         },
         "white": {
-          "value": "#ffffff",
+          "$value": "#ffffff",
           "$type": "color",
-          "description": "pure white"
+          "$description": "pure white"
         }
       },
       "font": {
         "win": {
-          "value": "Segoe UI",
+          "$value": "Segoe UI",
           "$type": "fontFamilies",
-          "description": "https://learn.microsoft.com/en-us/windows/apps/design/downloads/"
+          "$description": "https://learn.microsoft.com/en-us/windows/apps/design/downloads/"
         },
         "win-var": {
-          "value": "Segoe UI Variable",
+          "$value": "Segoe UI Variable",
           "$type": "fontFamilies",
-          "description": "https://learn.microsoft.com/en-us/windows/apps/design/style/typography"
+          "$description": "https://learn.microsoft.com/en-us/windows/apps/design/style/typography"
         },
         "macos": {
-          "value": "SF Pro",
+          "$value": "SF Pro",
           "$type": "fontFamilies",
-          "description": "https://developer.apple.com/fonts/"
+          "$description": "https://developer.apple.com/fonts/"
         },
         "macos-mono": {
-          "value": "SF Mono",
+          "$value": "SF Mono",
           "$type": "fontFamilies",
-          "description": "https://developer.apple.com/fonts/"
+          "$description": "https://developer.apple.com/fonts/"
         },
         "android": {
-          "value": "Roboto",
+          "$value": "Roboto",
           "$type": "fontFamilies",
-          "description": "https://fonts.google.com/specimen/Roboto"
+          "$description": "https://fonts.google.com/specimen/Roboto"
         },
         "system": {
-          "value": "SF Pro",
+          "$value": "SF Pro",
           "$type": "fontFamilies",
-          "description": "System Font Used in Designs"
+          "$description": "System Font Used in Designs"
         },
         "rem": {
-          "value": 14,
+          "$value": 14,
           "$type": "fontSizes",
-          "description": "default font size"
+          "$description": "default font size"
         },
         "multiplier": {
-          "value": 1.25,
+          "$value": 1.25,
           "$type": "fontSizes"
         },
         "scale": {
           "majorsecond": {
-            "value": 1.125,
+            "$value": 1.125,
             "$type": "other",
-            "description": "Major Second / Low Contrast Ratio"
+            "$description": "Major Second / Low Contrast Ratio"
           },
           "majorthird": {
-            "value": 1.25,
+            "$value": 1.25,
             "$type": "other",
-            "description": "Major Third / Medium Contrast Ratio"
+            "$description": "Major Third / Medium Contrast Ratio"
           },
           "perfectfifth": {
-            "value": 1.5,
+            "$value": 1.5,
             "$type": "other",
-            "description": "Perfect Fifth / High Contrast Ratio"
+            "$description": "Perfect Fifth / High Contrast Ratio"
           }
         },
         "size1": {
-          "value": 0.41,
+          "$value": 0.41,
           "$type": "fontSizes"
         },
         "size2": {
-          "value": 0.512,
+          "$value": 0.512,
           "$type": "fontSizes"
         },
         "size3": {
-          "value": 0.64,
+          "$value": 0.64,
           "$type": "fontSizes"
         },
         "size4": {
-          "value": 0.8,
+          "$value": 0.8,
           "$type": "fontSizes"
         },
         "size5": {
-          "value": 1,
+          "$value": 1,
           "$type": "fontSizes"
         },
         "size6": {
-          "value": 1.25,
+          "$value": 1.25,
           "$type": "fontSizes"
         },
         "size7": {
-          "value": 1.563,
+          "$value": 1.563,
           "$type": "fontSizes"
         },
         "size8": {
-          "value": 1.953,
+          "$value": 1.953,
           "$type": "fontSizes"
         },
         "size9": {
-          "value": 2.441,
+          "$value": 2.441,
           "$type": "fontSizes"
         },
         "size10": {
-          "value": 3.052,
+          "$value": 3.052,
           "$type": "fontSizes"
         },
         "lineheight": {
           "1": {
-            "value": 8,
+            "$value": 8,
             "$type": "lineHeights"
           },
           "2": {
-            "value": 16,
+            "$value": 16,
             "$type": "lineHeights"
           },
           "3": {
-            "value": 24,
+            "$value": 24,
             "$type": "lineHeights"
           },
           "4": {
-            "value": 32,
+            "$value": 32,
             "$type": "lineHeights"
           },
           "5": {
-            "value": 40,
+            "$value": 40,
             "$type": "lineHeights"
           },
           "6": {
-            "value": 48,
+            "$value": 48,
             "$type": "lineHeights"
           },
           "7": {
-            "value": 56,
+            "$value": 56,
             "$type": "lineHeights"
           },
           "8": {
-            "value": 64,
+            "$value": 64,
             "$type": "lineHeights"
           },
           "9": {
-            "value": 72,
+            "$value": 72,
             "$type": "lineHeights"
           },
           "10": {
-            "value": 80,
+            "$value": 80,
             "$type": "lineHeights"
           },
           "11": {
-            "value": 88,
+            "$value": 88,
             "$type": "lineHeights"
           }
         },
         "weight": {
           "regular": {
-            "value": "Regular",
+            "$value": "Regular",
             "$type": "fontWeights",
-            "description": "400"
+            "$description": "400"
           },
           "bold": {
-            "value": "Bold",
+            "$value": "Bold",
             "$type": "fontWeights",
-            "description": "700"
+            "$description": "700"
           },
           "bolditalic": {
-            "value": "Bold Italic",
+            "$value": "Bold Italic",
             "$type": "fontWeights",
-            "description": "700 Italic"
+            "$description": "700 Italic"
           },
           "semibold": {
-            "value": "Semibold",
+            "$value": "Semibold",
             "$type": "fontWeights",
-            "description": "600"
+            "$description": "600"
           },
           "semibolditalic": {
-            "value": "Semibold Italic",
+            "$value": "Semibold Italic",
             "$type": "fontWeights",
-            "description": "600 Italic"
+            "$description": "600 Italic"
           },
           "light": {
-            "value": "Light",
+            "$value": "Light",
             "$type": "fontWeights",
-            "description": "300"
+            "$description": "300"
           },
           "lightitalic": {
-            "value": "Light Italic",
+            "$value": "Light Italic",
             "$type": "fontWeights",
-            "description": "300 Italic"
+            "$description": "300 Italic"
           },
           "regularitalic": {
-            "value": "Italic",
+            "$value": "Italic",
             "$type": "fontWeights",
-            "description": "400 Italic\n* SF Pro has value \"Regular Italic\"\n* Segoe UI has value \"Italic\""
+            "$description": "400 Italic\n* SF Pro has $value \"Regular Italic\"\n* Segoe UI has $value \"Italic\""
           }
         }
       },
       "grid": {
         "base": {
-          "value": 8,
+          "$value": 8,
           "$type": "other",
-          "description": "Grid base Unit"
+          "$description": "Grid base Unit"
         }
       },
       "elevation": {
         "xs": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 5,
+              "$value": 5,
               "$type": "y"
             },
             "blur": {
-              "value": 4,
+              "$value": 4,
               "$type": "blur"
             },
             "spread": {
-              "value": -4,
+              "$value": -4,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000005",
+              "$value": "#00000005",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 1,
+              "$value": 1,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000f",
+              "$value": "#0000000f",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -1795,53 +1795,53 @@
         "sm": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000a",
+              "$value": "#0000000a",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 2,
+              "$value": 2,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000014",
+              "$value": "#00000014",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -1849,53 +1849,53 @@
         "sm-right": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000a",
+              "$value": "#0000000a",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 2,
+              "$value": 2,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000014",
+              "$value": "#00000014",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -1903,53 +1903,53 @@
         "sm-left": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000a",
+              "$value": "#0000000a",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": -2,
+              "$value": -2,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 2,
+              "$value": 2,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000014",
+              "$value": "#00000014",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -1957,53 +1957,53 @@
         "lg": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 2,
+              "$value": 2,
               "$type": "y"
             },
             "blur": {
-              "value": 6,
+              "$value": 6,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000f",
+              "$value": "#0000000f",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 32,
+              "$value": 32,
               "$type": "y"
             },
             "blur": {
-              "value": 40,
+              "$value": 40,
               "$type": "blur"
             },
             "spread": {
-              "value": -16,
+              "$value": -16,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000001f",
+              "$value": "#0000001f",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -2011,53 +2011,53 @@
         "xl": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 48,
+              "$value": 48,
               "$type": "y"
             },
             "blur": {
-              "value": 64,
+              "$value": 64,
               "$type": "blur"
             },
             "spread": {
-              "value": -24,
+              "$value": -24,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000001f",
+              "$value": "#0000001f",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 24,
+              "$value": 24,
               "$type": "y"
             },
             "blur": {
-              "value": 48,
+              "$value": 48,
               "$type": "blur"
             },
             "spread": {
-              "value": -8,
+              "$value": -8,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000001f",
+              "$value": "#0000001f",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -2065,53 +2065,53 @@
         "md": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 4,
+              "$value": 4,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000a",
+              "$value": "#0000000a",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 12,
+              "$value": 12,
               "$type": "y"
             },
             "blur": {
-              "value": 12,
+              "$value": 12,
               "$type": "blur"
             },
             "spread": {
-              "value": -8,
+              "$value": -8,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000014",
+              "$value": "#00000014",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
@@ -2119,349 +2119,349 @@
         "md-right": {
           "0": {
             "x": {
-              "value": 0,
+              "$value": 0,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 4,
+              "$value": 4,
               "$type": "blur"
             },
             "spread": {
-              "value": 0,
+              "$value": 0,
               "$type": "spread"
             },
             "color": {
-              "value": "#0000000a",
+              "$value": "#0000000a",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           },
           "1": {
             "x": {
-              "value": 12,
+              "$value": 12,
               "$type": "x"
             },
             "y": {
-              "value": 0,
+              "$value": 0,
               "$type": "y"
             },
             "blur": {
-              "value": 12,
+              "$value": 12,
               "$type": "blur"
             },
             "spread": {
-              "value": -8,
+              "$value": -8,
               "$type": "spread"
             },
             "color": {
-              "value": "#00000014",
+              "$value": "#00000014",
               "$type": "color"
             },
             "$type": {
-              "value": "dropShadow",
+              "$value": "dropShadow",
               "$type": "$type"
             }
           }
         },
         "flat": {
           "x": {
-            "value": 0,
+            "$value": 0,
             "$type": "x"
           },
           "y": {
-            "value": 0,
+            "$value": 0,
             "$type": "y"
           },
           "blur": {
-            "value": 0,
+            "$value": 0,
             "$type": "blur"
           },
           "spread": {
-            "value": 0,
+            "$value": 0,
             "$type": "spread"
           },
           "color": {
-            "value": "#00000000",
+            "$value": "#00000000",
             "$type": "color"
           },
           "$type": {
-            "value": "dropShadow",
+            "$value": "dropShadow",
             "$type": "$type"
           }
         }
       },
       "spacing": {
         "4": {
-          "value": 4,
+          "$value": 4,
           "$type": "sizing",
-          "description": "4"
+          "$description": "4"
         },
         "8": {
-          "value": 8,
+          "$value": 8,
           "$type": "sizing",
-          "description": "8"
+          "$description": "8"
         },
         "12": {
-          "value": 12,
+          "$value": 12,
           "$type": "sizing",
-          "description": "12"
+          "$description": "12"
         },
         "16": {
-          "value": 16,
+          "$value": 16,
           "$type": "sizing",
-          "description": "16"
+          "$description": "16"
         },
         "20": {
-          "value": 20,
+          "$value": 20,
           "$type": "sizing",
-          "description": "20"
+          "$description": "20"
         },
         "24": {
-          "value": 24,
+          "$value": 24,
           "$type": "sizing",
-          "description": "24"
+          "$description": "24"
         },
         "28": {
-          "value": 28,
+          "$value": 28,
           "$type": "sizing",
-          "description": "28"
+          "$description": "28"
         },
         "32": {
-          "value": 32,
+          "$value": 32,
           "$type": "sizing",
-          "description": "32"
+          "$description": "32"
         },
         "36": {
-          "value": 36,
+          "$value": 36,
           "$type": "sizing",
-          "description": "36"
+          "$description": "36"
         },
         "40": {
-          "value": 40,
+          "$value": 40,
           "$type": "sizing",
-          "description": "40"
+          "$description": "40"
         },
         "44": {
-          "value": 44,
+          "$value": 44,
           "$type": "sizing",
-          "description": "44\n"
+          "$description": "44\n"
         },
         "48": {
-          "value": 48,
+          "$value": 48,
           "$type": "sizing",
-          "description": "48"
+          "$description": "48"
         },
         "52": {
-          "value": 52,
+          "$value": 52,
           "$type": "sizing",
-          "description": "52"
+          "$description": "52"
         },
         "56": {
-          "value": 56,
+          "$value": 56,
           "$type": "sizing",
-          "description": "56"
+          "$description": "56"
         },
         "64": {
-          "value": 64,
+          "$value": 64,
           "$type": "sizing",
-          "description": "64"
+          "$description": "64"
         },
         "72": {
-          "value": 72,
+          "$value": 72,
           "$type": "sizing",
-          "description": "72"
+          "$description": "72"
         },
         "80": {
-          "value": 80,
+          "$value": 80,
           "$type": "sizing",
-          "description": "80"
+          "$description": "80"
         },
         "96": {
-          "value": 96,
+          "$value": 96,
           "$type": "sizing",
-          "description": "96"
+          "$description": "96"
         },
         "120": {
-          "value": 120,
+          "$value": 120,
           "$type": "sizing",
-          "description": "120"
+          "$description": "120"
         },
         "144": {
-          "value": 144,
+          "$value": 144,
           "$type": "sizing",
-          "description": "144"
+          "$description": "144"
         },
         "160": {
-          "value": 160,
+          "$value": 160,
           "$type": "sizing",
-          "description": "160"
+          "$description": "160"
         },
         "240": {
-          "value": 240,
+          "$value": 240,
           "$type": "sizing",
-          "description": "240"
+          "$description": "240"
         },
         "256": {
-          "value": 256,
+          "$value": 256,
           "$type": "sizing",
-          "description": "256"
+          "$description": "256"
         },
         "320": {
-          "value": 320,
+          "$value": 320,
           "$type": "sizing",
-          "description": "320"
+          "$description": "320"
         }
       },
       "radius": {
         "default": {
-          "value": 8,
+          "$value": 8,
           "$type": "borderRadius",
-          "description": "default"
+          "$description": "default"
         },
         "more": {
-          "value": 10,
+          "$value": 10,
           "$type": "borderRadius"
         },
         "round": {
-          "value": 32,
+          "$value": 32,
           "$type": "borderRadius"
         },
         "less": {
-          "value": 6,
+          "$value": 6,
           "$type": "borderRadius"
         },
         "lesser": {
-          "value": 2,
+          "$value": 2,
           "$type": "borderRadius"
         },
         "square": {
-          "value": 0,
+          "$value": 0,
           "$type": "borderRadius"
         }
       },
       "gap": {
         "0": {
-          "value": 0,
+          "$value": 0,
           "$type": "spacing"
         },
         "2": {
-          "value": 2,
+          "$value": 2,
           "$type": "spacing"
         },
         "4": {
-          "value": 4,
+          "$value": 4,
           "$type": "spacing"
         },
         "8": {
-          "value": 8,
+          "$value": 8,
           "$type": "spacing"
         },
         "12": {
-          "value": 12,
+          "$value": 12,
           "$type": "spacing"
         },
         "16": {
-          "value": 16,
+          "$value": 16,
           "$type": "spacing"
         },
         "32": {
-          "value": 32,
+          "$value": 32,
           "$type": "spacing"
         },
         "36": {
-          "value": 36,
+          "$value": 36,
           "$type": "spacing"
         },
         "64": {
-          "value": 64,
+          "$value": 64,
           "$type": "spacing"
         },
         "-4": {
-          "value": -4,
+          "$value": -4,
           "$type": "spacing"
         }
       },
       "padding": {
         "0": {
-          "value": 0,
+          "$value": 0,
           "$type": "spacing"
         },
         "2": {
-          "value": 2,
+          "$value": 2,
           "$type": "spacing"
         },
         "4": {
-          "value": 4,
+          "$value": 4,
           "$type": "spacing"
         },
         "6": {
-          "value": 6,
+          "$value": 6,
           "$type": "spacing"
         },
         "7": {
-          "value": 7,
+          "$value": 7,
           "$type": "spacing"
         },
         "8": {
-          "value": 8,
+          "$value": 8,
           "$type": "spacing"
         },
         "10": {
-          "value": 10,
+          "$value": 10,
           "$type": "spacing"
         },
         "12": {
-          "value": 12,
+          "$value": 12,
           "$type": "spacing"
         },
         "16": {
-          "value": 16,
+          "$value": 16,
           "$type": "spacing"
         },
         "20": {
-          "value": 20,
+          "$value": 20,
           "$type": "spacing"
         },
         "24": {
-          "value": 24,
+          "$value": 24,
           "$type": "spacing"
         },
         "32": {
-          "value": 32,
+          "$value": 32,
           "$type": "spacing"
         },
         "48": {
-          "value": 48,
+          "$value": 48,
           "$type": "spacing"
         },
         "64": {
-          "value": 64,
+          "$value": 64,
           "$type": "spacing"
         }
       },
       "borderwidth": {
         "icon": {
           "medium": {
-            "value": 1.25,
+            "$value": 1.25,
             "$type": "borderWidth"
           },
           "large": {
-            "value": 1.5,
+            "$value": 1.5,
             "$type": "borderWidth"
           },
           "huge": {
-            "value": 3,
+            "$value": 3,
             "$type": "borderWidth"
           },
           "small": {
-            "value": 1,
+            "$value": 1,
             "$type": "borderWidth"
           }
         }
@@ -2470,11 +2470,11 @@
   },
   "tokenSetOrder": {
     "0": {
-      "value": "core",
+      "$value": "core",
       "$type": "other"
     },
     "1": {
-      "value": "semantic",
+      "$value": "semantic",
       "$type": "other"
     }
   },
@@ -2903,6 +2903,6 @@
       "cds.semantic.color.text.contrast": "VariableID:1205:39421"
     },
     "$type": "other",
-    "value": "[object Object]"
+    "$value": "[object Object]"
   }
 }
