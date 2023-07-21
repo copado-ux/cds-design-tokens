@@ -15,6 +15,9 @@ jobs:
       - run: npx style-dictionary build --config config.json
       # Transform JSON to something Zeroheight Token Manager can read
       - run: npx replace-in-files-cli replace-in-files --string='type' --replacement='$type' tokens/input.json
+      - run: npx replace-in-files-cli replace-in-files --string='value' --replacement='$value' tokens/input.json
+      - run: npx replace-in-files-cli replace-in-files --string='description' --replacement='$description' tokens/input.json
+
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
