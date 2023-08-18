@@ -2382,10 +2382,6 @@
         "64": {
           "$value": 64,
           "$type": "spacing"
-        },
-        "-4": {
-          "$value": -4,
-          "$type": "spacing"
         }
       },
       "padding": {
@@ -2881,7 +2877,6 @@
       "cds.core.gap.32": "VariableID:1205:39593",
       "cds.core.gap.36": "VariableID:1205:39594",
       "cds.core.gap.64": "VariableID:1205:39595",
-      "cds.core.gap.-4": "VariableID:1205:39596",
       "cds.core.padding.0": "VariableID:1205:39597",
       "cds.core.padding.2": "VariableID:1205:39598",
       "cds.core.padding.4": "VariableID:1205:39599",
