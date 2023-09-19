@@ -461,6 +461,40 @@
               "$type": "textDecoration"
             }
           },
+          "defaultMono": {
+            "fontFamily": {
+              "$value": "SF Mono",
+              "$type": "fontFamilies"
+            },
+            "fontSize": {
+              "$value": 11.2,
+              "$type": "fontSizes"
+            },
+            "lineHeight": {
+              "$value": 16,
+              "$type": "lineHeights"
+            },
+            "letterSpacing": {
+              "$value": 0,
+              "$type": "letterSpacing"
+            },
+            "fontWeight": {
+              "$value": "Regular",
+              "$type": "fontWeights"
+            },
+            "paragraphSpacing": {
+              "$value": 24,
+              "$type": "paragraphSpacing"
+            },
+            "textCase": {
+              "$value": "As Typed",
+              "$type": "textCase"
+            },
+            "textDecoration": {
+              "$value": "None",
+              "$type": "textDecoration"
+            }
+          },
           "defaultUnderline": {
             "fontFamily": {
               "$value": "SF Pro",
