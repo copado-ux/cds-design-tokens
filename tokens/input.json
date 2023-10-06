@@ -609,7 +609,7 @@
               "$type": "fontSizes"
             },
             "lineHeight": {
-              "$value": 8,
+              "$value": 16,
               "$type": "lineHeights"
             },
             "letterSpacing": {
