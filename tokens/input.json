@@ -171,7 +171,7 @@
             "$description": "body, buttons, list items"
           },
           "hint": {
-            "$value": "#cbced8",
+            "$value": "#989db0",
             "$type": "color",
             "$description": "helper text"
           },
