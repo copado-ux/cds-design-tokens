@@ -18,6 +18,15 @@
           "format": "scss/variables"
         }
       ]
+    },
+    "flutter": {
+      "transformGroup": "flutter",
+      "files": [
+        {
+          "destination": "flutter/variables.dart",
+          "format": "flutter/class.dart"
+        }
+      ]
     }
   }
 }
