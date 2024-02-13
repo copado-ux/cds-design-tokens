@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 05 Jan 2024 13:14:53 GMT
+// Generated on Tue, 13 Feb 2024 09:53:57 GMT
 
 
 
@@ -376,7 +376,7 @@ class  {
     static const cdsSemanticColorTextDisabled = #989db0;
     static const cdsSemanticColorTextHint = #989db0;
     static const cdsSemanticColorTextPrimary = #111219;
-    static const cdsSemanticColorTextSecondary = #757c96;
+    static const cdsSemanticColorTextSecondary = #646b89;
     static const cdsSemanticTypographyBiggerBoldFontFamily = SF Pro;
     static const cdsSemanticTypographyBiggerBoldFontSize = 17.5;
     static const cdsSemanticTypographyBiggerBoldFontWeight = Bold;
